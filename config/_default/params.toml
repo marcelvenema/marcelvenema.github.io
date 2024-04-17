@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 custom_script = ""
 # copyright
 theme_copyright = true
-copyright = "Copyright 2024 MarcelVenema.com all rights reserved."
+copyright = "Copyright 2024 MarcelVenema.com - all rights reserved."
 
 # Preloader
 [preloader]

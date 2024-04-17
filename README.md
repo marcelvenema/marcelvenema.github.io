@@ -1,7 +1,5 @@
 # marcelvenema.github.io
 
-
-# marcelvenema.com-tailwindcss
 Personal webserver based on Hugo and Tailwind CSS
 
 
