@@ -34,6 +34,12 @@ weight = 61
 
 [[main]]
 parent = "ABOUT"
+name = "about"
+url = "about/"
+weight = 62
+
+[[main]]
+parent = "ABOUT"
 name = "Career"
 url = "career/"
 

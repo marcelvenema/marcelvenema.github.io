@@ -6,5 +6,5 @@ image: "/images/blog/image-placeholder.png"
 categories: ["DevOps"]
 author: "Marcel Venema" 
 tags: ["Packer","Vault"]
-draft: false
+draft: true
 ---

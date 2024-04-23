@@ -25,7 +25,7 @@ feature_list:
       description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
 
 brands:
-  enable: true
+  enable: false
   list:
     - "/images/brands/1.png"
     - "/images/brands/2.png"
@@ -39,7 +39,7 @@ brands:
     - "/images/brands/7.png"
 
 process:
-  enable: true
+  enable: false
   title: "Don't Take Our Word For It"
   subtitle: "EXPERIENCE SPEAKS"
   description: "Pellen tesque in ipsum id orci porta dapibus. titor nibh. Vivamus accumsan tincidunt."
@@ -53,8 +53,6 @@ process:
     - title: "Choose Right Plan"
       description: "Proin eget tortor risus. Donec sollicitudin molestie imperdiet et, porttitor at sem."
       image: "images/tab-contents/feature-tab-content-3.jpg"
-
-
 
 
 ---

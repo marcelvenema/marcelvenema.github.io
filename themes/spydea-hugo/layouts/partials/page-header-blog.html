@@ -1,0 +1,17 @@
+{{ $title := .Title }}
+{{ $description := .Params.description }}
+{{ $isDescEnable := .Params.show_page_description }}
+
+{{/* Hide Description on Integration Single Page */}}
+{{ if findRE "integration" .RelPermalink }}
+  {{ $description = "" }}
+{{ end }}
+
+<section class="section page-header relative overflow-hidden pb-96 after:z-1">
+  {{ if $title }}
+    <div class="container">
+    </div>
+    <!-- End Main Content -->
+  {{ end }}
+</section>
+<!-- End Page Header -->
