@@ -97,37 +97,14 @@
       class="border-light/20 h-[1px] border-0 border-b border-opacity-30 bg-transparent" />
     <p class="copyright">
       {{ site.Params.copyright }}
-      {{ if site.Params.theme_copyright }}
-        | Themes by
-        <a
-          target="_blank"
-          rel="noopener noreferrer"
-          href="https://gethugothemes.com/"
-          >GetHugoThemes</a
-        >
-      {{ end }}
+   
     </p>
     <!-- End Copyright  -->
   </div>
   <!-- End Main Content -->
 
-  {{ partial "components/bg-lines.html" (dict "Color" "bg-line-dark" "Class" "line-bg absolute left-0 top-1/2 flex h-full w-full -translate-y-1/2 justify-between") }}
-  <!-- End background lines -->
 
-  <div class="absolute bottom-0 left-0 -z-10 h-full w-full">
-    <div
-      class="pointer-events-none absolute right-0 top-[35%] hidden select-none lg:block">
-      {{ partial "image.html" (dict "Src" "/images/shapes/footer-s-1.svg" "Class" "inline-svg text-quaternary" "Alt" "shape") }}
-    </div>
-    <div
-      class="pointer-events-none absolute bottom-0 hidden select-none lg:block min-[1024px]:left-[-6%] min-[1400px]:left-0">
-      {{ partial "image.html" (dict "Src" "/images/shapes/footer-s-2.svg" "Class" "inline-svg text-quinary" "Alt" "shape") }}
-    </div>
-    <div
-      class="pointer-events-none absolute bottom-0 right-0 hidden select-none lg:block">
-      {{ partial "image.html" (dict "Src" "/images/shapes/footer-s-3.svg" "Class" "inline-svg text-secondary" "Alt" "shape") }}
-    </div>
-  </div>
-  <!-- End background Shapes -->
+
+  
 </footer>
 <!-- End Main Footer -->

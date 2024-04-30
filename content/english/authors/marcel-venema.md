@@ -1,10 +1,10 @@
 ---
 title: "Marcel Venema"
-image: "images/authors/8.jpg"
+image: "images/authors/1.jpg"
 social:
   - icon : "fab fa-github"
     name: "github"
-    link : "#!"
+    link : "https://github.com/marcelvenema"
   - icon : "fab fa-linkedin-in"
     name: "linkedin"
     link : "https://linkedin.com/in/marcelvenema"

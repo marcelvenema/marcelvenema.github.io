@@ -38,20 +38,6 @@
     {{ end }}
     </div>
 
-    <!-- Start Bg Shape -->
-    <div
-      data-aos="fade-left-sm"
-      class="pointer-events-none absolute bottom-[10%] left-[-5%] hidden select-none lg:block">
-      {{ partial "image.html" (dict "Src" "images/shapes/about-s-1.svg" "Class" "inline-svg text-secondary" "Alt" "shape") }}
-    </div>
-    <div
-      data-aos="fade-right-sm"
-      class="pointer-events-none absolute right-0 top-52 hidden select-none lg:block">
-      {{ partial "image.html" (dict "Src" "images/shapes/blog-s-1.svg" "Class" "inline-svg text-quinary" "Alt" "shape") }}
-    </div>
-    <!-- End Bg Shape -->
-    {{ partial "components/bg-lines.html" (dict "Color" "bg-line-sky") }}
-    <!-- End background lines -->
   </section>
   <!-- End Articles Section -->
 {{ end }}
@@ -148,8 +134,6 @@
       </div>
       <!-- End Main Content -->
 
-      {{ partial "components/bg-lines.html" (dict "Color" "bg-line-yellow") }}
-      <!-- End background lines -->
     </section>
     <!-- End Banner Section -->
   {{ end }}
@@ -225,24 +209,6 @@
           </div>
         </div>
 
-        <!-- Start Bg Shape -->
-        <div
-          data-aos="fade-left-sm"
-          class="pointer-events-none absolute top-0 hidden select-none min-[1440px]:block">
-          {{ partial "image.html" (dict "Src" "images/shapes/features-s-1.svg" "Class" "inline-svg text-quaternary" "Alt"
-            "shape")
-          }}
-        </div>
-        <div
-          data-aos="fade-right-sm"
-          class="pointer-events-none absolute right-0 top-52 hidden select-none lg:block">
-          {{ partial "image.html" (dict "Src" "images/shapes/features-s-2.svg" "Class" "inline-svg text-secondary" "Alt"
-            "shape")
-          }}
-        </div>
-        <!-- End Bg Shape -->
-        {{ partial "components/bg-lines.html" (dict "Color" "bg-line-sky") }}
-        <!-- End background lines -->
       </section>
       <!-- End Features Section -->
     {{ end }}
@@ -308,23 +274,6 @@
                 </div>
               {{ end }}
 
-
-              <!-- Start Bg Shape -->
-              <div
-                data-aos="fade-up-md"
-                class="pointer-events-none absolute right-[-40px] top-[-50px] -z-10 hidden select-none lg:block">
-                {{ partial "image.html" (dict "Src" "images/shapes/showcase-s-1.svg" "Class" "inline-svg text-quinary" "Alt"
-                  "shape")
-                }}
-              </div>
-              <div
-                data-aos="fade-down-md"
-                class="pointer-events-none absolute bottom-[-50px] right-[-40px] -z-10 hidden select-none lg:block">
-                {{ partial "image.html" (dict "Src" "images/shapes/showcase-s-2.svg" "Class" "inline-svg text-quaternary"
-                  "Alt" "shape")
-                }}
-              </div>
-              <!-- End Bg Shape -->
             </div>
             <!-- End Tab Content  -->
           </div>
@@ -363,24 +312,7 @@
               {{ with (site.GetPage "counter") }}
                 {{ partial "counter.html" . }}
               {{ end }}
-              <!-- Start Bg Shape -->
-              <div
-                data-aos="fade-up-md"
-                data-aos-delay="50"
-                class="pointer-events-none absolute bottom-[-55px] left-[-30px] -z-10 hidden select-none lg:block">
-                {{ partial "image.html" (dict "Src" "images/shapes/fun-fact-s-1.svg" "Class" "inline-svg text-quinary" "Alt"
-                  "shape")
-                }}
-              </div>
-              <div
-                data-aos="fade-down-md"
-                data-aos-delay="50"
-                class="pointer-events-none absolute right-[-40px] top-[40px] -z-10 hidden select-none lg:block">
-                {{ partial "image.html" (dict "Src" "images/shapes/fun-fact-s-2.svg" "Class" "inline-svg text-secondary" "Alt"
-                  "shape")
-                }}
-              </div>
-              <!-- End Bg Shape -->
+
             </div>
           </div>
         </div>
@@ -415,42 +347,12 @@
                   class="feature-clip-path-2 relative"
                   data-aos="fade-right-sm">
                   {{ partial "image.html" (dict "Src" .image "Alt" "feature image" "Class" `mx-auto block`) }}
-                  <!-- Start Bg Shape -->
-                  <div
-                    data-aos="fade-up-md"
-                    class="pointer-events-none absolute left-[12%] top-[-8%] -z-10 hidden select-none text-[#6FABF6] lg:block">
-                    {{ partial "image.html" (dict "Src" "images/shapes/feature-s-3.svg" "Class" "inline-svg text-quinary" "Alt"
-                      "shape")
-                    }}
-                  </div>
-                  <div
-                    data-aos="fade-down-md"
-                    class="pointer-events-none absolute bottom-[-1%] right-[10%] -z-10 hidden select-none text-[#70ADF9] lg:block">
-                    {{ partial "image.html" (dict "Src" "images/shapes/feature-s-4.svg" "Class" "inline-svg text-quaternary"
-                      "Alt" "shape")
-                    }}
-                  </div>
-                  <!-- End Bg Shape -->
+
                 </div>
               {{ else }}
                 <div class="feature-clip-path-1 relative">
                   {{ partial "image.html" (dict "Src" .image "Alt" "feature image" "Class" `mx-auto block`) }}
-                  <!-- Start Bg Shape -->
-                  <div
-                    data-aos="fade-right-sm"
-                    class="pointer-events-none absolute right-[100px] top-[-10px] -z-10 hidden select-none lg:block">
-                    {{ partial "image.html" (dict "Src" "images/shapes/feature-s-1.svg" "Class" "inline-svg text-quinary" "Alt"
-                      "shape")
-                    }}
-                  </div>
-                  <div
-                    data-aos="fade-left-sm"
-                    class="pointer-events-none absolute bottom-[130px] left-0 -z-10 hidden select-none lg:block">
-                    {{ partial "image.html" (dict "Src" "images/shapes/feature-s-2.svg" "Class" "inline-svg text-secondary"
-                      "Alt" "shape")
-                    }}
-                  </div>
-                  <!-- End Bg Shape -->
+
                 </div>
               {{ end }}
             </div>
@@ -484,8 +386,7 @@
             </div>
           </div>
         </div>
-        {{ partial "components/bg-lines.html" (dict "Color" "bg-line-sky" "Class" "line-bg absolute left-0 top-1/2 z-10 flex h-full w-full -translate-y-1/2 justify-between") }}
-        <!-- End background lines -->
+
       </section>
     {{ end }}
   {{ end }}

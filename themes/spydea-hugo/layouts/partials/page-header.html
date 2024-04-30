@@ -39,25 +39,6 @@
     </div>
     <!-- End Main Content -->
   {{ end }}
-
-  {{ partial "components/bg-lines.html" (dict "Color" "bg-line-yellow") }}
-  <!-- End background lines -->
-
-  <!-- Start Shape background -->
-  <div
-    class="pointer-events-none absolute left-0 top-[5%] z-30 hidden select-none lg:block"
-    data-aos="fade-up-sm">
-    {{ partial "image.html" (dict "Src" "images/shapes/page-header-s-1.svg" "Class" "inline-svg text-secondary" "Alt"
-      "shape")
-    }}
-  </div>
-  <div
-    class="pointer-events-none absolute right-0 top-[25%] z-30 hidden select-none lg:block"
-    data-aos="fade-up-sm">
-    {{ partial "image.html" (dict "Src" "images/shapes/page-header-s-2.svg" "Class" "inline-svg text-quinary" "Alt"
-      "shape")
-    }}
-  </div>
-  <!-- End Shape background -->
+  
 </section>
 <!-- End Page Header -->

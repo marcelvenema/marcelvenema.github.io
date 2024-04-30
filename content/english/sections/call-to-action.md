@@ -1,6 +1,6 @@
 ---
 cta:
-  enable: true
+  enable: false
   title: "Sign up and Create Your Online Store Today!"
   image: "/images/cta-image.png"
   supported_tech:

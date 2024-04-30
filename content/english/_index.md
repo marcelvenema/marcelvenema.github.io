@@ -6,7 +6,7 @@ blog:
     link: "blog/"
 
 feature_list:
-  enable: true
+  enable: false
   title: "A Technology Approach"
   subtitle: "WE ARE THE ULTIMATE"
   description: "Pellen tesque in ipsum id orci porta dapibus. Sed port titor nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula"

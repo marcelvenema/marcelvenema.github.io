@@ -1,25 +1,111 @@
 ---
-title: Choose the Plan That’s Right for You
-layout: "pricing"
+title: Tools
+layout: "about"
+description: "Useful tools and utilities"
+show_page_description: false
 
 
-feature_list:
+
+ultimate_vision:
+  - title: "A World Financial Connected with Open Opportunates all"
+    subtitle: "WE HAVE OUR VISION"
+  - title: "Connect the World Through a Smart, Free and Financing App"
+    subtitle: "WE ARE THE ULTIMATE"
+
+
+
+team_member:
+  title: "Amazing Team Behind The Spydea App"
+  subtitle: "OUR TEAM MEMBERS"
+  button:
+    label: "Become A Team Member"
+    link: "career/"
+  members:
+    - name: "Bessie Cooper"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/1.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Albert Flores"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/2.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Jacob Jones"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/3.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Jerome Bell"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/4.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Guy Hawkins"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/5.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Darlene Robertson"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/6.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Devon Lane"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/7.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+    - name: "Cody Fisher"
+      description: "adipiscing cons cte tur dolor sit amet, cons cte tur dolorili"
+      image: "images/team-member/8.jpg"
+      social:
+        - link: "https://facebook.com"
+          icon: "fa-brands fa-facebook"
+        - link: "https://twitter.com"
+          icon: "fa-brands fa-twitter"
+        - link: "https://linkedin.com"
+          icon: "fa-brands fa-linkedin-in"
+
+opened_positions:
   enable: true
-  title: "Tools"
-  subtitle: "WE ARE THE ULTIMATE"
-  description: "A collections of tools and  Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula"
-  list:
-    - title: "Realtime function"
-      icon: "fa-regular fa-paper-plane"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-    - title: "Accurate comment"
-      icon: "fa-regular fa-copy"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-    - title: "Plugins support"
-      icon: "fa-regular fa-lightbulb"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-    - title: "All Integrations"
-      icon: "fa-regular fa-object-ungroup"
-      description: "Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Mauris blandit aliquet elit, eget tincidunt pulvinar a. Curabitur aliquet quam id dui posuere"
-
+  title: "Spydea Open Positions"
+  subtitle: "JOIN OUR TEAM"
+  description: "Pellen tesque in ipsum id orci porta dapibus. titor nibh. Vivamus accumsan tincidunt. Vestibulum ac diam sit amet quam vehicula elementum"
 ---
+
