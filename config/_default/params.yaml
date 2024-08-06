@@ -1,0 +1,24 @@
+header:
+  title: Mixplate
+  logo: images/logo.png
+header_socials:
+  - title: Linkedin
+    icon: icon-linkedin
+    url: "http://linkedin.com/in/marcelvenema"
+  - title: X
+    icon: icon-x
+    url: "https://twitter.com/marcel_venema"
+description: Mixplate site
+# Your favicon must be located in the assets/images folder
+favicon: images/favicon.png
+author: Mixplate
+footer_description: >
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+reading_speed: 520
+footer_socials:
+  - title: Linkedin
+    icon: icon-linkedin
+    url: "http://linkedin.com/in/marcelvenema"
+  - title: X
+    icon: icon-x
+    url: "https://twitter.com/marcel_venema"

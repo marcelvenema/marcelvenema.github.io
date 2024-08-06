@@ -1,0 +1,81 @@
+{{- define "main" }}
+<main x-data="{ open: false, currentImage: 1 }" id="site-main" class="single-page">
+  {{ partial "swiper-images.html" . }}
+
+  {{- with .Site.Data.pages.hero_section }}
+  {{- if .enable }}
+  <section class="hero-section -translate-y-6">
+    <div class="container w-full max-w-screen-lg mx-auto">
+      <div class="aspect-w-[492] aspect-h-[175]">
+        {{- if fileExists (add `assets/` (string .image_bg)) }}
+        {{- $image_bg:= resources.Get .image_bg }}
+        <div
+          class="hero-section__bg w-full h-full bg-cover bg-no-repeat bg-center bg-[url('{{ $image_bg.RelPermalink }}')]">
+          {{ else }}
+          <div class="w-full h-full bg-cover bg-no-repeat bg-center bg-[url('/images/header-bg.jpg')]">
+            {{- end }}
+          </div>
+        </div>
+      </div>
+  </section>
+  {{- end }}
+  {{- end }}
+
+  <div class="single-content">
+    <div class="container w-full max-w-screen-lg mx-auto md:px-5">
+      {{- partial "category-menu-mobile.html" . }}
+      {{- partial "category-menu.html" . }}
+
+      <div class="single-page__content md:border md:border-solid md:border-[#00000040] py-[30px] md:py-[60px] mb-10">
+        <div class="max-w-[740px] mx-auto px-4 md:px-10 lg:px-0">
+          <header>
+            <div class="mb-4">
+              {{ partial "post-meta.html" . }}
+              <h2
+                class="text-2xl md:text-3xl lg:text-[2.5rem] text-black font-bold leading-[1.25] lg:leading-[1.25] mt-7">
+                {{ .Title }}</h2>
+              {{- if .Lastmod }}
+              <div>
+                <span class="text-sm text-black leading-[1.25]">Updated: {{ .Lastmod | time.Format "Jan 06, 2006"
+                  }}</span>
+              </div>
+              {{- end }}
+            </div>
+          </header>
+          {{ .Scratch.Set "images" .Params.gallery_images }}
+          <div class="page-content lg:text-lg text-justify">
+            {{ .Content | safeHTML }}
+          </div>
+          {{ partial "post-footer-meta.html" . }}
+        </div>
+      </div>
+
+      {{- $currentPage := . }}
+      {{- $relevantPosts := slice }}
+      {{- range first 3 (where .Site.RegularPages.ByDate.Reverse "Type" "blog") }}
+      {{- if and (ne .Permalink $currentPage.Permalink) (intersect .Params.categories $currentPage.Params.categories) }}
+      {{- $relevantPosts = $relevantPosts | append . }}
+      {{- end }}
+      {{- end }}
+
+      {{- if gt (len $relevantPosts) 0 }}
+      <div class="related-posts mb-10 px-5 md:px-0">
+        <header class="flex justify-between mb-6">
+          <div>
+            <h2 class="text-lg font-normal mb-0">Recent Posts</h2>
+          </div>
+          <div>
+            <a class="text-black hover:text-primary" href="/blog/">See All</a>
+          </div>
+        </header>
+        <div class="grid grid-cols-12 md:gap-8">
+          {{- range $relevantPosts }}
+          {{- partial "resent-post-card.html" . }}
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+</main>
+{{- end }}

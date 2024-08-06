@@ -1,0 +1,18 @@
+{{- $site := .Site }}
+{{- $section := .section }}
+{{- with $section }}
+{{- if .enable }}
+<section class="content-section">
+    <div class="container w-full max-w-screen-lg mx-auto px-5 pt-10">
+        <header>
+            <h1 class="text-[2.1875rem] text-black font-normal">{{ .title }}</h1>
+        </header>
+        <div class="text-black text-justify">
+            {{- with .content }}
+            {{ partial "markdownify.html" . }}
+            {{- end }}
+        </div>
+    </div>
+</section>
+{{- end }}
+{{- end }}

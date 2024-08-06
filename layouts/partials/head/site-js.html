@@ -1,0 +1,16 @@
+<!-- vendor -->
+{{- $alpine := resources.Get "js/vendor/alpinejs/dist/cdn.min.js" }}
+{{- $collapse := resources.Get "js/vendor/collapse/dist/cdn.min.js" }}
+{{- $persist := resources.Get "js/vendor/persist/dist/cdn.min.js" }}
+{{- $swiper := resources.Get "js/vendor/swiper/swiper-bundle.min.js" }}
+{{- $infinite_scroll := resources.Get "js/vendor/infinite-scroll/dist/infinite-scroll.pkgd.min.js" }}
+{{- $masonry_layout := resources.Get "js/vendor/masonry-layout/dist/masonry.pkgd.min.js" }}
+{{- $minisearch := resources.Get "js/vendor/minisearch/dist/umd/index.js" }}
+
+<!-- local js -->
+<!-- {{- $persist := resources.Get "js/persist@3.10.2.min.js" }} -->
+
+{{- $js := slice $swiper $persist $collapse $minisearch $alpine | resources.Concat "js/main.js" }}
+{{- $js_min := $js | resources.Minify }}
+
+<script defer src="{{ $js_min.RelPermalink }}"></script>

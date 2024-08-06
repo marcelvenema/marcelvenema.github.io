@@ -1,32 +1,35 @@
 {
-  "name": "spydea-hugo",
-  "description": "spydea sass theme",
-  "version": "1.2.1",
-  "license": "UNLICENSED",
-  "author": "gethugothemes",
-  "scripts": {
-    "dev": "hugo server",
-    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
-    "dev:example": "cd exampleSite; hugo server --themesDir ../..",
-    "build:example": "cd exampleSite; hugo --themesDir ../.. --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",
-    "preview:example": "cd exampleSite; hugo server --themesDir ../.. --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --watch --forceSyncStatic -e production --minify",
-    "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
-    "project-setup": "node ./scripts/projectSetup.js",
-    "theme-setup": "node ./scripts/themeSetup.js",
-    "format": "prettier -w ."
-  },
-  "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^5.0.0",
-    "@tailwindcss/forms": "^0.5.3",
-    "@tailwindcss/typography": "^0.5.9",
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.24",
-    "postcss-cli": "^10.1.0",
-    "prettier": "^2.8.8",
-    "prettier-plugin-go-template": "0.0.13",
-    "prettier-plugin-tailwindcss": "^0.3.0",
-    "tailwind-bootstrap-grid": "^5.0.1",
-    "tailwindcss": "^3.3.2"
-  }
+    "name": "marcel-venema",
+    "version": "1.0.0",
+    "description": "Marcel Venema",
+    "main": "index.js",
+    "scripts": {
+        "dev": "hugo server --disableFastRender --ignoreCache --noHTTPCache --buildDrafts  --baseURL http://192.168.29.12:1313 --bind 0.0.0.0",
+        "build": "hugo --gc --minify",
+        "start": "hugo server --bind 192.168.0.104 --baseURL http://192.168.0.104"
+    },
+    "author": "kreasify",
+    "license": "ISC",
+    "browserslist": [
+        "last 2 version",
+        "> 1%",
+        "maintained node versions",
+        "not dead"
+    ],
+    "dependencies": {
+        "@alpinejs/collapse": "^3.13.10",
+        "@alpinejs/persist": "^3.13.10",
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "alpinejs": "^3.13.7",
+        "autoprefixer": "^10.4.19",
+        "infinite-scroll": "^4.0.1",
+        "masonry-layout": "^4.2.2",
+        "minisearch": "^7.1.0",
+        "postcss": "^8.4.38",
+        "postcss-cli": "^11.0.0",
+        "postcss-import": "^16.1.0",
+        "swiper": "^11.1.8",
+        "tailwindcss": "^3.4.7",
+        "tailwindcss-important": "^1.0.0"
+    }
 }

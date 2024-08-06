@@ -1,0 +1,58 @@
+{{ if .Params.gallery_images }}
+<div x-cloak x-show="open"
+    class="fixed w-full h-screen top-0 left-0 inset-0 bg-white flex items-center justify-center z-40"
+    @click.self="open = false;">
+    <div class="relative z-40 w-[94%] lg:w-[90%] rounded-lg">
+        <button @click="open = false;"
+            class="absolute -top-12 right-0 w-8 h-8 bg-white text-gray-700 flex justify-center items-center">
+            <span class="text-3xl leading-[32px]">
+                <svg class="fill-current text-current" xmlns="http://www.w3.org/2000/svg" width="60" height="60"
+                    viewBox="0 0 60 60">
+                    <g fill="none" fill-rule="evenodd">
+                        <path fill="white" d="M0 0H60V60H0z"></path>
+                        <path fill="#2F2E2E"
+                            d="M42.188 17l.812.813L30.812 30 43 42.188l-.813.812L30 30.812 17.812 43 17 42.187 29.187 30 17 17.812l.813-.812L30 29.187 42.188 17z">
+                        </path>
+                    </g>
+                </svg>
+            </span>
+        </button>
+        <div x-data="{
+            initSplide() {
+              new Swiper(this.$refs.swiper, {
+                slidesPerView: 1,
+                initialSlide: currentImage,
+                spaceBetween: 0,
+                centeredSlides: true,
+                pagination: {
+                    el: '.swiper-pagination',
+                },
+                navigation: {
+                    nextEl: '.swiper-button-next',
+                    prevEl: '.swiper-button-prev',
+                },
+              }).mount();
+            }
+        }" x-init="$watch('currentImage', () => $nextTick(() => initSplide()))">
+            <div x-ref="swiper" class="swiper">
+                <div class="swiper-wrapper">
+                    {{- range .Params.gallery_images }}
+                    <div class="swiper-slide">
+                        <div class="aspect-w-3 aspect-h-4 md:aspect-w-21 md:aspect-h-9">
+                            <div
+                                class="absolute top-0 left-0 w-full h-full flex justify-center items-center overflow-hidden">
+                                {{ $image := resources.Get . }}
+                                <img class="w-full h-auto md:w-auto md:h-full" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}"
+                                    height="{{ $image.Height }}" alt="image">
+                            </div>
+                        </div>
+                    </div>
+                    {{- end }}
+                </div>
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+    </div>
+</div>
+{{- end }}

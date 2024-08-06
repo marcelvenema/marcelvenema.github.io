@@ -1,0 +1,32 @@
+<div>
+    {{ $reading_time := .ReadingTime }}
+    {{- if .Params.authors }}
+    {{- range (.GetTerms "authors") }}
+    <div class="flex items-center space-x-[10px]">
+        <div class="flex-none w-[32px]">
+            <div class="w-[32px] h-[32px] rounded-full overflow-hidden">
+                {{- with .Resources.GetMatch .Params.cover }}
+                {{- with .Resize "32x q100 webp" }}
+                <img src="{{ .RelPermalink }}" class="w-full h-auto object-cover object-center rounded-[16px]"
+                    alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+                {{- end }}
+                {{- end }}
+            </div>
+        </div>
+        <div>
+            <div class="flex items-center">
+                <h4 class="text-xs text-black leading-[1.25] mb-0">{{ .LinkTitle | humanize }}</h4>
+                <span>
+                    {{- partial "svg/icon-badge.svg" }}
+                </span>
+            </div>
+            <div class="text-xs text-black leading-[1.25] flex items-center">
+                <span class="text-xs">{{ .Date | time.Format "Jan 06, 2006" }}</span>
+                <span class="w-[4px] h-[4px] bg-black rounded-[2px] mx-2"></span>
+                <span>{{ $reading_time }} min</span>
+            </div>
+        </div>
+    </div>
+    {{- end }}
+    {{- end }}
+</div>

@@ -1,0 +1,10 @@
+<!-- vendor -->
+{{- $infinite_scroll := resources.Get "js/vendor/infinite-scroll/dist/infinite-scroll.pkgd.min.js" }}
+{{- $masonry_layout := resources.Get "js/vendor/masonry-layout/dist/masonry.pkgd.min.js" }}
+{{- $blog_scrolling := resources.Get "js/blog-scrolling.js" }}
+{{- $term_scrolling := resources.Get "js/term-scrolling.js" }}
+
+{{- $js := slice $infinite_scroll $masonry_layout $blog_scrolling $term_scrolling | resources.Concat "js/scrolling.js" }}
+{{- $js_min := $js | resources.Minify }}
+
+<script src="{{ $js_min.RelPermalink }}"></script>

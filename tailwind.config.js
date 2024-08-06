@@ -1,92 +1,238 @@
-const fs = require("fs");
-const path = require("path");
-const themePath = path.join(__dirname, "data/theme.json");
-const themeRead = fs.readFileSync(themePath, "utf8");
-const theme = JSON.parse(themeRead);
-
-let font_base = Number(theme.fonts.font_size.base.replace("px", ""));
-let font_scale = Number(theme.fonts.font_size.scale);
-let h6 = font_base / font_base;
-let h5 = h6 * font_scale;
-let h4 = h5 * font_scale;
-let h3 = h4 * font_scale;
-let h2 = h3 * font_scale;
-let h1 = h2 * font_scale;
-let fontPrimary, fontPrimaryType, fontSecondary, fontSecondaryType;
-if (theme.fonts.font_family.primary) {
-  fontPrimary = theme.fonts.font_family.primary
-    .replace(/\+/g, " ")
-    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "");
-  fontPrimaryType = theme.fonts.font_family.primary_type;
-}
-if (theme.fonts.font_family.secondary) {
-  fontSecondary = theme.fonts.font_family.secondary
-    .replace(/\+/g, " ")
-    .replace(/:[ital,]*[ital@]*[wght@]*[0-9,;]+/gi, "");
-  fontSecondaryType = theme.fonts.font_family.secondary_type;
-}
-
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./hugo_stats.json"],
+  content: [
+    "./layouts/**/*.html",
+    "./layouts/**/**/*.html",
+    "./content/**/*.md",
+  ],
+  safelist: [
+    "chroma",
+    "err",
+    "lntd",
+    "lntable",
+    "hl",
+    "lnt",
+    "ln",
+    "k",
+    "kc",
+    "kd",
+    "kn",
+    "kp",
+    "kr",
+    "kt",
+    "na",
+    "nb",
+    "nc",
+    "no",
+    "ne",
+    "nf",
+    "nn",
+    "nt",
+    "nv",
+    "p",
+    "s",
+    "sa",
+    "sb",
+    "sc",
+    "dl",
+    "sd",
+    "s2",
+    "se",
+    "sh",
+    "si",
+    "sx",
+    "sr",
+    "s1",
+    "ss",
+    "m",
+    "mb",
+    "mf",
+    "mh",
+    "mi",
+    "il",
+    "mo",
+    "ow",
+    "c",
+    "ch",
+    "cm",
+    "c1",
+    "cs",
+    "cp",
+    "cpf",
+    "gd",
+    "ge",
+    "gr",
+    "gh",
+    "gi",
+    "go",
+    "gp",
+    "gs",
+    "gu",
+    "gt",
+    "o",
+    "gl",
+    "w",
+    "hl",
+    "dark",
+    "-translate-x-[11px]",
+    "translate-y-[7px]",
+  ],
   theme: {
-    screens: {
-      xs: "480px",
-      sm: "575px",
-      md: "768px",
-      lg: "1024px",
-      xl: "1320px",
-    },
-    container: {
-      padding: "1.5rem",
-    },
     extend: {
-      colors: {
-        text: theme.colors.default.text_color.default,
-        light: theme.colors.default.text_color.light,
-        dark: theme.colors.default.text_color.dark,
-        primary: theme.colors.default.theme_color.primary,
-        secondary: theme.colors.default.theme_color.secondary,
-        tertiary: theme.colors.default.theme_color.tertiary,
-        quaternary: theme.colors.default.theme_color.quaternary,
-        quinary: theme.colors.default.theme_color.quinary,
-        senary: theme.colors.default.theme_color.senary,
-        body: theme.colors.default.theme_color.body,
-        border: theme.colors.default.theme_color.border,
-        "theme-dark": theme.colors.default.theme_color.theme_dark,
-        "theme-light": theme.colors.default.theme_color.theme_light,
+      screens: {
+        sm: "380px",
+        // => @media (min-width: 640px) { ... }
+
+        md: "768px",
+        // => @media (min-width: 768px) { ... }
+
+        lg: "980px",
+        // => @media (min-width: 1024px) { ... }
+
+        xl: "1200px",
+        // => @media (min-width: 1280px) { ... }
+
+        "2xl": "1536px",
+        // => @media (min-width: 1536px) { ... }
       },
-      fontSize: {
-        base: font_base + "px",
-        h1: h1 + "rem",
-        "h1-md": h1 * 0.8 + "rem",
-        h2: h2 + "rem",
-        "h2-md": h2 * 0.8 + "rem",
-        h3: h3 + "rem",
-        "h3-md": h3 * 0.8 + "rem",
-        h4: h4 + "rem",
-        "h4-md": h4 * 0.8 + "rem",
-        h5: h5 + "rem",
-        h6: h6 + "rem",
+      colors: {
+        primary: "#d49c59",
+        secondary: "#C4B5F0",
+        tertiary: "#E1E3D3",
       },
       fontFamily: {
-        primary: [fontPrimary, fontPrimaryType],
-        secondary: [fontSecondary, fontSecondaryType],
+        heading: ["Open Sans"],
+        body: ["Open Sans"],
+      },
+      listStyleType: {
+        circle: "circle",
+        square: "square",
+        "lower-latin": "lower-latin",
+        "lower-roman": "lower-roman",
+        "upper-latin": "upper-latin",
+        "upper-roman": "upper-roman",
+      },
+      gridTemplateColumns: {
+        16: "repeat(16, minmax(0, 1fr))",
+      },
+      gridColumn: {
+        "span-13": "span 13 / span 13",
+        "span-15": "span 15 / span 15",
+        "span-16": "span 16 / span 16",
+      },
+      aspectRatio: {
+        auto: "auto",
+        square: "1 / 1",
+        video: "16 / 9",
+        17: "17",
+        18: "18",
+        19: "19",
+        20: "20",
+        21: "21",
+      },
+      animation: {
+        fadeInDown: "fadeInDown 900ms ease-in-out",
+        fadeInUp: "fadeInUp 900ms ease-in",
+      },
+      keyframes: {
+        fadeInDown: {
+          "0%": {
+            opacity: "0",
+            transform: "translate3d(0, -200%, 0)",
+          },
+          "100%": {
+            opacity: "1",
+            transform: "none",
+          },
+        },
+        fadeInUp: {
+          "0%": {
+            opacity: "1",
+            transform: "none",
+          },
+          "100%": {
+            opacity: "0",
+            transform: "translate3d(0, -200%, 0)",
+          },
+        },
       },
     },
   },
+  variants: {
+    aspectRatio: ["before"],
+  },
+  corePlugins: {
+    aspectRatio: false,
+  },
   plugins: [
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/forms"),
-    require("tailwind-bootstrap-grid")({
-      generateContainer: false,
-      gridGutters: {
-        1: "0.25rem",
-        2: "0.5rem",
-        3: "1rem",
-        4: "1.5rem",
-        5: "3rem",
-      },
-    }),
+    require("@tailwindcss/aspect-ratio"),
+    require("tailwindcss-important"),
+    function ({ addBase, config }) {
+      addBase({
+        h1: {
+          fontSize: config("theme.fontSize.3xl"),
+          fontWeight: config("theme.fontWeight.bold"),
+          marginBottom: config("theme.spacing.4"),
+          fontFamily: config("theme.fontFamily.heading"),
+        },
+        h2: {
+          fontSize: config("theme.fontSize.2xl"),
+          fontWeight: config("theme.fontWeight.bold"),
+          marginBottom: config("theme.spacing.4"),
+          fontFamily: config("theme.fontFamily.heading"),
+        },
+        h3: {
+          fontSize: config("theme.fontSize.xl"),
+          fontWeight: config("theme.fontWeight.bold"),
+          marginBottom: config("theme.spacing.4"),
+          fontFamily: config("theme.fontFamily.heading"),
+        },
+        h4: {
+          fontSize: config("theme.fontSize.lg"),
+        },
+        a: {
+          color: config("theme.colors.primary"),
+        },
+        p: {
+          marginBottom: config("theme.spacing.6"),
+        },
+        ol: {
+          listStyleType: config("theme.listStyleType.decimal"),
+          paddingLeft: config("theme.spacing.6"),
+          marginBottom: config("theme.spacing.4"),
+        },
+        ul: {
+          listStyleType: config("theme.listStyleType.disc"),
+          paddingLeft: config("theme.spacing.6"),
+          marginBottom: config("theme.spacing.4"),
+        },
+        li: {
+          marginBottom: config("theme.spacing.2"),
+        },
+        table: {
+          tableLayout: "auto",
+          marginTop: config("theme.spacing.4"),
+          marginBottom: config("theme.spacing.6"),
+        },
+        "table th": {
+          fontSize: config("theme.fontSize.base"),
+          paddingLeft: config("theme.spacing.2"),
+          paddingRight: config("theme.spacing.2"),
+          paddingTop: config("theme.spacing.2"),
+          paddingBottom: config("theme.spacing.2"),
+          borderWidth: config("theme.borderWidth.DEFAULT"),
+          borderColor: config("theme.colors.gray.300"),
+          background: config("theme.colors.gray.50"),
+        },
+        "table td": {
+          fontSize: config("theme.fontSize.base"),
+          paddingLeft: config("theme.spacing.2"),
+          paddingRight: config("theme.spacing.2"),
+          paddingTop: config("theme.spacing.2"),
+          paddingBottom: config("theme.spacing.2"),
+          borderWidth: config("theme.borderWidth.DEFAULT"),
+          borderColor: config("theme.colors.gray.300"),
+        },
+      });
+    },
   ],
 };
