@@ -1,9 +1,9 @@
 ---
 title: "Montage benzinepomp"
-meta_tile: ""
 description: ""
 date: 2017-07-15T09:00:00+01:00
-image_cover: "/images/blog/benzinepomp.jpg"
+lastmod: 2017-07-15T09:00:00+01:00
+image_cover: "benzinepomp.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

@@ -3,7 +3,7 @@ title: "Do not let your developers hostage the code"
 description: ""
 date: 2024-02-14T06:00:00+01:00
 lastmod: 2024-02-14T06:00:00+01:00
-image_cover: "/img/blog/2024/image-placeholder.png"
+image_cover: "image-placeholder.png"
 categories: ["DevOps"]
 authors: ["Marcel Venema"] 
 tags: [""]

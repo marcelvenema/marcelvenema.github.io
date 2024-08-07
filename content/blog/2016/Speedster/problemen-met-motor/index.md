@@ -1,9 +1,9 @@
 ---
 title: "Problemen met de motor"
-meta_tile: ""
 description: ""
 date: 2016-11-23T09:00:00+01:00
-image_cover: "/images/blog/problemen-met-motor.jpg"
+lastmod: 2016-11-23T09:00:00+01:00
+image_cover: "problemen-met-motor.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

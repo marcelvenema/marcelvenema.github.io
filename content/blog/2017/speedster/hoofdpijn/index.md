@@ -1,9 +1,9 @@
 ---
 title: "Hoofdpijn"
-meta_tile: ""
 description: ""
 date: 2017-08-30T09:00:00+01:00
-image_cover: "/images/blog/hoofdpijn.jpg"
+lastmod: 2017-08-30T09:00:00+01:00
+image_cover: "hoofdpijn.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

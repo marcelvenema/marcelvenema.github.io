@@ -1,9 +1,9 @@
 ---
 title: "RES RSVP meeting"
-meta_tile: ""
 description: ""
 date: 2013-12-31T09:00:00+01:00
-image_cover: "/img/blog/2013/benjamin-child-GWe0dlVD9e0-unsplash.jpg"
+lastmod: 2013-12-31T09:00:00+01:00
+image_cover: "benjamin-child-GWe0dlVD9e0-unsplash.jpg"
 categories: ["RES Software"]
 authors: ["Marcel Venema"] 
 tags: []

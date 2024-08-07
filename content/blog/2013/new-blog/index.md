@@ -1,11 +1,10 @@
 ---
 title: "New blog, new site, old stress..."
-meta_tile: ""
 description: ""
 date: 2013-12-15T09:00:00+01:00
 lastmod: 2013-12-15T09:00:00+01:00
-image_cover: "/img/blog/2013/sergi-kabrera-2xU7rYxsTiM-unsplash.jpg"
-categories: ["ModelX"]
+image_cover: "sergi-kabrera-2xU7rYxsTiM-unsplash.jpg"
+categories: []
 authors: ["Marcel Venema"] 
 tags: []
 draft: false

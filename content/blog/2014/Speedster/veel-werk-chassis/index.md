@@ -1,9 +1,9 @@
 ---
 title: "Veel werk met het chassis"
-meta_tile: ""
 description: ""
 date: 2014-10-19T09:00:00+01:00
-image_cover: "/img/blog/2014/veel-werk-chassis.jpg"
+lastmod: 2014-10-19T09:00:00+01:00
+image_cover: "veel-werk-chassis.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

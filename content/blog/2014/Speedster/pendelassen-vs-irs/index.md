@@ -1,9 +1,9 @@
 ---
 title: "Pendelassen versus IRS"
-meta_tile: ""
 description: ""
 date: 2014-09-07T09:00:00+01:00
-image_cover: "/img/blog/2014/pendelasvstussenas.jpg"
+lastmod: 2014-09-07T09:00:00+01:00
+image_cover: "pendelasvstussenas.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

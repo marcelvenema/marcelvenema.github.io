@@ -2,7 +2,7 @@
 title: "Opkikkerdag oktober 2023"
 description: ""
 date: 2023-10-14T09:00:00+01:00
-image_cover: "/img/blog/2023/opkikkerdag-07-10-2023.jpg"
+image_cover: "opkikkerdag-07-10-2023.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: ["Opkikkerdag"]

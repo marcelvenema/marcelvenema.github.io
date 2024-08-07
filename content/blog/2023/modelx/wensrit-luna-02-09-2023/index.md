@@ -3,7 +3,7 @@ title: "Wensrit Luna september 2023"
 description: ""
 date: 2023-09-07T09:00:00+01:00
 latmod: 2023-09-07T09:00:00+01:00
-image_cover: "/img/blog/2023/wensrit-luna-02-09-2023.jpg"
+image_cover: "wensrit-luna-02-09-2023.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: []

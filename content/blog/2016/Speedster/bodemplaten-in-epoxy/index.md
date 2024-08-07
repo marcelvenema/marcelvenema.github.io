@@ -1,9 +1,9 @@
 ---
 title: "Bodemplaten in epoxy"
-meta_tile: ""
 description: ""
 date: 2016-09-08T09:00:00+01:00
-image_cover: "/images/blog/bodemplaten-in-epoxy.jpg"
+lastmod: 2016-09-08T09:00:00+01:00
+image_cover: "bodemplaten-in-epoxy.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

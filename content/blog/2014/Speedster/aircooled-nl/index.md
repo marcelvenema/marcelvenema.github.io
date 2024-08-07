@@ -1,9 +1,9 @@
 ---
 title: "Aircooled.nl"
-meta_tile: ""
 description: ""
 date: 2014-08-09T09:00:00+01:00
-image_cover: "/img/blog/2014/aircooled-nl.jpg"
+lastmod: 2014-08-09T09:00:00+01:00
+image_cover: "aircooled-nl.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

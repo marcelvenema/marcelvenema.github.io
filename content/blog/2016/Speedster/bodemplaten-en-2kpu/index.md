@@ -1,9 +1,9 @@
 ---
 title: "Bodemplaten en 2K-PU kit"
-meta_tile: ""
 description: ""
 date: 2016-09-10T09:00:00+01:00
-image_cover: "/images/blog/bodemplaten-en-2kpu.jpg"
+lastmod: 2016-09-10T09:00:00+01:00
+image_cover: "bodemplaten-en-2kpu.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

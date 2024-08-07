@@ -1,9 +1,9 @@
 ---
 title: "Autogordels"
-meta_tile: ""
 description: ""
 date: 2016-11-21T09:00:00+01:00
-image_cover: "/images/blog/autogordels.jpg"
+lastmod: 2016-11-21T09:00:00+01:00
+image_cover: "autogordels.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

@@ -8,7 +8,7 @@ header_socials:
   - title: X
     icon: icon-x
     url: "https://twitter.com/marcel_venema"
-description: Mixplate site
+description: MarcelVenema.com website
 # Your favicon must be located in the assets/images folder
 favicon: images/favicon.png
 author: Mixplate

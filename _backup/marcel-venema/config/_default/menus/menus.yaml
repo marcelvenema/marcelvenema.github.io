@@ -1,0 +1,78 @@
+main:
+  - name: Home
+    url: "/"
+    weight: 10
+  - name: Blog
+    url: "/blog/"
+    weight: 20
+  - name: Training
+    url: "/training/"
+    weight: 30
+  - name: Tools
+    url: "/tools/"
+    weight: 40
+  - name: About
+    url: "/about"
+    weight: 50
+
+main_footer:
+  - name: Terms & Conditions
+    url: "terms-of-service"
+    weight: 10
+  - name: Privacy policy
+    url: "privacy-policy"
+    weight: 20
+  - name: California Privacy Notice
+    url: "california-privacy-notice"
+    weight: 30
+
+footer_left:
+  - name: Product
+    url: "product"
+    weight: 10
+  - name: Pricing
+    url: "pricing"
+    weight: 20
+  - name: Business
+    url: "business"
+    weight: 30
+  - name: Enterprise
+    url: "enterprise"
+    weight: 40
+  - name: Customer Success
+    url: "customer-success"
+    weight: 50
+
+footer_center:
+  - name: Company
+    url: "company"
+    weight: 10
+  - name: Partnerships
+    url: "partnerships"
+    weight: 20
+  - name: The Team
+    url: "the-team"
+    weight: 30
+  - name: Help & Support
+    url: "help-and-support"
+    weight: 40
+  - name: Product Manager
+    url: "product-manager"
+    weight: 50
+
+footer_right:
+  - name: DMCA
+    url: "dmca"
+    weight: 10
+  - name: Terms of use
+    url: "terms-of-use"
+    weight: 20
+  - name: Privacy Policy
+    url: "privacy-policy"
+    weight: 30
+  - name: Cookie Policy
+    url: "cookie-policy"
+    weight: 40
+  - name: Legal Information
+    url: "legal-information"
+    weight: 50

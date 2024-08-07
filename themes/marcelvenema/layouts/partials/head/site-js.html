@@ -1,0 +1,12 @@
+{{- $alpine := resources.Get "js/alpinejs.min.js" }}
+{{- $collapse := resources.Get "js/collapse.min.js" }}
+{{- $persist := resources.Get "js/persist.min.js" }}
+{{- $swiper := resources.Get "js/swiper-bundle.min.js" }}
+{{- $infinite_scroll := resources.Get "js/infinite-scroll.min.js" }}
+{{- $masonry_layout := resources.Get "js/masonry.min.js" }}
+{{- $minisearch := resources.Get "js/minisearch.js" }}
+
+{{- $js := slice $swiper $persist $collapse $alpine | resources.Concat "js/main.js" }}
+{{- $js_min := $js | resources.Minify }}
+
+<script defer src="{{ $js_min.RelPermalink }}"></script>

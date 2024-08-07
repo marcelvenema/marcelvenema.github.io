@@ -1,9 +1,9 @@
 ---
 title: "RDW keuring"
-meta_tile: ""
 description: ""
 date: 2016-11-27T09:00:00+01:00
-image_cover: "/images/blog/rdw.jpg"
+lastmod: 2016-11-27T09:00:00+01:00
+image_cover: "rdw.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

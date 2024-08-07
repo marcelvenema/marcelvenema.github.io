@@ -1,9 +1,9 @@
 ---
 title: "Techno Classica Essen"
-meta_tile: ""
 description: ""
 date: 2017-04-07T09:00:00+01:00
-image_cover: "/images/blog/techno-classica.jpg"
+lastmod: 2017-04-07T09:00:00+01:00
+image_cover: "techno-classica.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

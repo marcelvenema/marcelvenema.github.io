@@ -1,9 +1,9 @@
 ---
 title: "Monteren stuurhuis"
-meta_tile: ""
 description: ""
 date: 2016-07-20T09:00:00+01:00
-image_cover: "/images/blog/monteren-stuurhuis.jpg"
+lastmod: 2016-07-20T09:00:00+01:00
+image_cover: "monteren-stuurhuis.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

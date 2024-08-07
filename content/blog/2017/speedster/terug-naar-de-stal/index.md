@@ -1,9 +1,9 @@
 ---
 title: "Terug naar de stal"
-meta_tile: ""
 description: ""
 date: 2017-08-30T09:00:00+01:00
-image_cover: "/images/blog/terug-naar-de-stal.jpg"
+lastmod: 2017-08-30T09:00:00+01:00
+image_cover: "terug-naar-de-stal.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

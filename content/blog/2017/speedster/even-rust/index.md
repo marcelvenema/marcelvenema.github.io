@@ -1,9 +1,9 @@
 ---
 title: "Even rust"
-meta_tile: ""
 description: ""
 date: 2017-09-25T09:00:00+01:00
-image_cover: "/images/blog/even-rust.jpg"
+lastmod: 2017-09-25T09:00:00+01:00
+image_cover: "even-rust.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

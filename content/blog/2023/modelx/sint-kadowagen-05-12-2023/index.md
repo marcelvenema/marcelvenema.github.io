@@ -3,7 +3,7 @@ title: "Sinterklaas Kadowagen"
 description: ""
 date: 2023-12-09T09:00:00+01:00
 lastmod: 2023-12-09T09:00:00+01:00
-image_cover: "/img/blog/2023/sint-kadowagen-05-12-2023.jpg"
+image_cover: "sint-kadowagen-05-12-2023.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: ["TeslaWensrit"]

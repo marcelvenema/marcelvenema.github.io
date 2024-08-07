@@ -1,9 +1,9 @@
 ---
 title: ""
-meta_tile: ""
 description: ""
 date: 2018-09-25T09:00:00+01:00
-image_cover: "/img/blog/2018/osman-rana-BltXOAu8Ckw-unsplash.jpg"
+lastmod: 2018-09-25T09:00:00+01:00
+image_cover: "osman-rana-BltXOAu8Ckw-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: []

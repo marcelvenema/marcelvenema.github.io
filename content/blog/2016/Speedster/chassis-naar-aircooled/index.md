@@ -1,9 +1,9 @@
 ---
 title: "Chassis naar AirCooled"
-meta_tile: ""
 description: ""
 date: 2016-09-16T09:00:00+01:00
-image_cover: "/images/blog/chassis-naar-aircooled.jpg"
+lastmod: 2016-09-16T09:00:00+01:00
+image_cover: "chassis-naar-aircooled.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

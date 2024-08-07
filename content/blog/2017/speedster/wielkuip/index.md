@@ -1,9 +1,9 @@
 ---
 title: "Wielkuip"
-meta_tile: ""
 description: ""
 date: 2017-09-25T09:00:00+01:00
-image_cover: "/images/blog/wielkuip.jpg"
+lastmod: 2017-09-25T09:00:00+01:00
+image_cover: "wielkuip.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

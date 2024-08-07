@@ -1,9 +1,9 @@
 ---
 title: "RES Software trainers meeting"
-meta_tile: ""
 description: ""
 date: 2013-12-18T09:00:00+01:00
-image_cover: "/img/blog/2013/sam-balye-w1FwDvIreZU-unsplash.jpg"
+lastmod: 2013-12-18T09:00:00+01:00
+image_cover: "sam-balye-w1FwDvIreZU-unsplash.jpg"
 categories: ["RES Software"]
 authors: ["Marcel Venema"] 
 tags: []

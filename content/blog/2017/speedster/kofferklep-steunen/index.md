@@ -1,9 +1,9 @@
 ---
 title: "Kofferklep steunen"
-meta_tile: ""
 description: ""
 date: 2017-09-25T09:00:00+01:00
-image_cover: "/images/blog/kofferklep-steunen.jpg"
+lastmod: 2017-09-25T09:00:00+01:00
+image_cover: "kofferklep-steunen.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

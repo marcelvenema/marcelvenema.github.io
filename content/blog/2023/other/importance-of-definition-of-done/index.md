@@ -2,7 +2,7 @@
 title: "The importance of having a Definition of Done"
 description: ""
 date: 2023-03-04T09:00:00+01:00
-image_cover: "/images/blog/braden-collum-9HI8UJMSdZA-unsplash.jpg"
+image_cover: "braden-collum-9HI8UJMSdZA-unsplash.jpg"
 categories: ["Devops"]
 authors: ["Marcel Venema"] 
 tags: []

@@ -5,7 +5,7 @@ summary: "summary"
 slug: "opkikkerdag-april-2024"
 date: 2024-04-10T09:00:00+01:00
 lastmod: 2024-04-10T09:00:00+01:00
-image_cover: "/img/blog/2024/opkikkerdag-06-04-2024.jpg"
+image_cover: "opkikkerdag-06-04-2024.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"]
 tags: ["Opkikkerdag"]

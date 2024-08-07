@@ -2,7 +2,7 @@
 title: "Dag met een Lach oktober 2023"
 description: ""
 date: 2023-10-15T09:00:00+01:00
-image_cover: "/img/blog/2023/dmel0810.jpg"
+image_cover: "dmel0810.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: ["dag met een lach"]

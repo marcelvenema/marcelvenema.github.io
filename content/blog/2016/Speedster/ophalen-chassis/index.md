@@ -1,9 +1,9 @@
 ---
 title: "Ophalen chassis"
-meta_tile: ""
 description: ""
 date: 2016-10-09T09:00:00+01:00
-image_cover: "/images/blog/ophalen-chassis.jpg"
+lastmod: 2016-10-09T09:00:00+01:00
+image_cover: "ophalen-chassis.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

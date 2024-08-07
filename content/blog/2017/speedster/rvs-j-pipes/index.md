@@ -1,9 +1,9 @@
 ---
 title: "RVS J-pipes"
-meta_tile: ""
 description: ""
 date: 2017-01-06T09:00:00+01:00
-image_cover: "/images/blog/rvs-j-pipes.jpg"
+lastmod: 2017-01-06T09:00:00+01:00
+image_cover: "rvs-j-pipes.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

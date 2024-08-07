@@ -1,9 +1,9 @@
 ---
 title: "Draagarmen"
-meta_tile: ""
 description: ""
 date: 2014-11-12T09:00:00+01:00
-image_cover: "/img/blog/2014/draagarmen.jpg"
+lastmod: 2014-11-12T09:00:00+01:00
+image_cover: "draagarmen.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

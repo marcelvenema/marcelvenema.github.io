@@ -1,9 +1,9 @@
 ---
 title: "Deployment Toolkit WinPE: Tips & Tricks"
-meta_tile: ""
 description: ""
 date: 2014-11-24T09:00:00+01:00
-image_cover: "/img/blog/2014/tadas-sar-T01GZhBSyMQ-unsplash.jpg"
+lastmod: 2014-11-24T09:00:00+01:00
+image_cover: "tadas-sar-T01GZhBSyMQ-unsplash.jpg"
 categories: ["Deployment"]
 authors: ["Marcel Venema"] 
 tags: ["MDT"]

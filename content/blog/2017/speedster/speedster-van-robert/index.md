@@ -1,9 +1,9 @@
 ---
 title: "Speedster van Robert"
-meta_tile: ""
 description: ""
 date: 2017-03-20T09:00:00+01:00
-image_cover: "/images/blog/speedster-van-robert.jpg"
+lastmod: 2017-03-20T09:00:00+01:00
+image_cover: "speedster-van-robert.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

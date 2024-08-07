@@ -1,9 +1,9 @@
 ---
 title: "Graphite blue metallic"
-meta_tile: ""
 description: ""
 date: 2017-09-25T09:00:00+01:00
-image_cover: "/images/blog/graphite-blue-metallic.jpg"
+lastmo: 2017-09-25T09:00:00+01:00
+image_cover: "graphite-blue-metallic.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

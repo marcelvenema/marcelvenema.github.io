@@ -1,9 +1,9 @@
 ---
 title: "De zaag er in!"
-meta_tile: ""
 description: ""
 date: 2017-04-20T09:00:00+01:00
-image_cover: "/images/blog/de-zaag-er-in.jpg"
+lastmod: 2017-04-20T09:00:00+01:00
+image_cover: "de-zaag-er-in.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

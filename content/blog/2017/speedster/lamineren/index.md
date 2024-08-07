@@ -1,9 +1,9 @@
 ---
 title: "Lamineren"
-meta_tile: ""
 description: ""
 date: 2017-05-06T09:00:00+01:00
-image_cover: "/images/blog/lamineren.jpg"
+lastmod: 2017-05-06T09:00:00+01:00
+image_cover: "lamineren.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

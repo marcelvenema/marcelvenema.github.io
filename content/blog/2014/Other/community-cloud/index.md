@@ -1,9 +1,9 @@
 ---
 title: "Community Cloud"
-meta_tile: ""
 description: ""
 date: 2014-01-12T09:00:00+01:00
-image_cover: "/img/blog/2014/pero-kalimero-9BJRGlqoIUk-unsplash.jpg"
+lastmod: 2014-01-12T09:00:00+01:00
+image_cover: "pero-kalimero-9BJRGlqoIUk-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: ["homelab"]

@@ -1,9 +1,9 @@
 ---
 title: "E bij B"
-meta_tile: ""
 description: ""
 date: 2016-09-22T09:00:00+01:00
-image_cover: "/images/blog/e-bij-b.jpg"
+lastmod: 2016-09-22T09:00:00+01:00
+image_cover: "e-bij-b.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

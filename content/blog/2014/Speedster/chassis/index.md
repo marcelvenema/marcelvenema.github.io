@@ -1,9 +1,9 @@
 ---
 title: "Hoera, een chassis!"
-meta_tile: ""
 description: ""
 date: 2014-08-22T09:00:00+01:00
-image_cover: "/img/blog/2014/chassis.jpg"
+lastmod: 2014-08-22T09:00:00+01:00
+image_cover: "chassis.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

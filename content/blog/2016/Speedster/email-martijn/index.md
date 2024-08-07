@@ -1,9 +1,9 @@
 ---
 title: "E-Mail van Martijn"
-meta_tile: ""
 description: ""
 date: 2016-05-28T09:00:00+01:00
-image_cover: "/images/blog/ingekortchassis.jpg"
+lastmod: 2016-05-28T09:00:00+01:00
+image_cover: "ingekortchassis.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

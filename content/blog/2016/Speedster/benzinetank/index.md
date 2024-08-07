@@ -1,9 +1,9 @@
 ---
 title: "Benzinetank"
-meta_tile: ""
 description: ""
 date: 2016-10-30T09:00:00+01:00
-image_cover: "/images/blog/benzinetank.jpg"
+lastmod: 2016-10-30T09:00:00+01:00
+image_cover: "benzinetank.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

@@ -1,9 +1,9 @@
 ---
 title: "Kieren en gaten"
-meta_tile: ""
 description: ""
 date: 2018-08-30T09:00:00+01:00
-image_cover: "/images/blog/kieren-en-gaten.jpg"
+lastmod: 2018-08-30T09:00:00+01:00
+image_cover: "kieren-en-gaten.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

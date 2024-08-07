@@ -1,9 +1,9 @@
 ---
 title: "Richting aangever"
-meta_tile: ""
 description: ""
 date: 2016-11-01T09:00:00+01:00
-image_cover: "/images/blog/koffie-koek.jpeg"
+lastmod: 2016-11-01T09:00:00+01:00
+image_cover: "richtingaangever.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

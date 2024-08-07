@@ -1,10 +1,10 @@
 ---
 title: "Problem Steps Recorder"
-meta_tile: ""
 description: ""
 date: 2013-12-22T09:00:00+01:00
-image_cover: "/img/blog/2013/stephen-holdaway-Wa6za80_R_k-unsplash.jpg"
-categories: ["windows"]
+lastmod: 2013-12-22T09:00:00+01:00
+image_cover: "stephen-holdaway-Wa6za80_R_k-unsplash.jpg"
+categories: ["Windows"]
 authors: ["Marcel Venema"] 
 tags: ["HomeLab"]
 draft: false

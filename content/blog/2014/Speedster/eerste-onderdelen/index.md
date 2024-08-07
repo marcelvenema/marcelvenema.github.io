@@ -1,9 +1,9 @@
 ---
 title: "Eerste onderdelen"
-meta_tile: ""
 description: ""
 date: 2014-09-14T09:00:00+01:00
-image_cover: "/img/blog/2014/eerste-onderdelen.jpg"
+lastmod: 2014-09-14T09:00:00+01:00
+image_cover: "eerste-onderdelen.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

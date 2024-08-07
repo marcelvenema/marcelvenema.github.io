@@ -1,9 +1,9 @@
 ---
 title: "59 ways to publish your application"
-meta_tile: ""
 description: ""
 date: 2014-01-17T09:00:00+01:00
-image_cover: "/img/blog/2014/christian-wiediger-GWkioAj5aB4-unsplash.jpg"
+lastmod: 2014-01-17T09:00:00+01:00
+image_cover: "christian-wiediger-GWkioAj5aB4-unsplash.jpg"
 categories: ["Packaging"]
 authors: ["Marcel Venema"] 
 tags: ["App-V", "MSI"]

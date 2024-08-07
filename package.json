@@ -4,9 +4,9 @@
     "description": "Marcel Venema",
     "main": "index.js",
     "scripts": {
-        "dev": "hugo server --disableFastRender --ignoreCache --noHTTPCache --buildDrafts  --baseURL http://192.168.29.12:1313 --bind 0.0.0.0",
+        "dev": "hugo server --disableFastRender",
         "build": "hugo --gc --minify",
-        "start": "hugo server --bind 192.168.0.104 --baseURL http://192.168.0.104"
+        "start": "hugo server --disableFastRender --ignoreCache --noHTTPCache --buildDrafts  --baseURL http://192.168.29.12:1313 --bind 0.0.0.0"
     },
     "author": "kreasify",
     "license": "ISC",

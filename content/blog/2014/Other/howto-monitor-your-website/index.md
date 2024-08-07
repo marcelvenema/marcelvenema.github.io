@@ -1,9 +1,9 @@
 ---
 title: "How to monitor your website"
-meta_tile: ""
 description: ""
 date: 2014-02-21T09:00:00+01:00
-image_cover: "/img/blog/2014/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
+lastmod: 2014-02-21T09:00:00+01:00
+image_cover: "ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: ["homelab"]

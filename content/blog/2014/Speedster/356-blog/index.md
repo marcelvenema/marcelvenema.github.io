@@ -1,9 +1,9 @@
 ---
 title: "Welkom bij mijn Speedster blog!"
-meta_tile: ""
 description: ""
 date: 2014-08-01T09:00:00+01:00
-image_cover: "/img/blog/2014/356speedster.jpg"
+lastmod: 2014-08-01T09:00:00+01:00
+image_cover: "356speedster.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

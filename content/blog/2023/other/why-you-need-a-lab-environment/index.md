@@ -3,7 +3,7 @@ title: "Why you need a lab environment"
 description: ""
 date: 2023-04-22T09:00:00+01:00
 lastmod: 2023-04-22T09:00:00+01:00
-image_cover: "/img/blog/2023/testalize-me-0jE8ynV4mis-unsplash.jpg"
+image_cover: "testalize-me-0jE8ynV4mis-unsplash.jpg"
 categories: ["Devops"]
 authors: ["Marcel Venema"] 
 tags: ["nutanix", "vmware", "hyperv", "vagrant", "homelab"]

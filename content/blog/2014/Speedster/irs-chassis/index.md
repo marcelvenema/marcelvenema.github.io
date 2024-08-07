@@ -1,9 +1,9 @@
 ---
 title: "IRS chassis"
-meta_tile: ""
 description: ""
 date: 2014-08-10T09:00:00+01:00
-image_cover: "/img/blog/2014/zhan-zhang-6gS4AwmKKDg-unsplash.jpg"
+lastmod: 2014-08-10T09:00:00+01:00
+image_cover: "pendelasvstussenas.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

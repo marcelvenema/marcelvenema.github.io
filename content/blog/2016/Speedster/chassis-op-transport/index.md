@@ -1,9 +1,9 @@
 ---
 title: "Chassis op transport"
-meta_tile: ""
 description: ""
 date: 2016-09-03T09:00:00+01:00
-image_cover: "/images/blog/chassis-op-transport.jpg"
+lastmod: 2016-09-03T09:00:00+01:00
+image_cover: "chassis-op-transport.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

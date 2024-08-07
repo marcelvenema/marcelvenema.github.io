@@ -3,7 +3,7 @@ title: "Happy holidays"
 description: ""
 date: 2013-12-23T09:00:00+01:00
 lastmod: 2013-12-23T09:00:00+01:00
-image_cover: "/img/blog/2013/osman-rana-BltXOAu8Ckw-unsplash.jpg"
+image_cover: "osman-rana-BltXOAu8Ckw-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: []

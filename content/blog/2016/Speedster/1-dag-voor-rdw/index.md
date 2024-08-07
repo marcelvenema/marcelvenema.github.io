@@ -1,9 +1,9 @@
 ---
 title: "Een dag voor de RDW keuring"
-meta_tile: ""
 description: ""
 date: 2016-11-24T09:00:00+01:00
-image_cover: "/images/blog/1-dag-voor-rdw.jpg"
+lastmod: 2016-11-24T09:00:00+01:00
+image_cover: "1-dag-voor-rdw.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

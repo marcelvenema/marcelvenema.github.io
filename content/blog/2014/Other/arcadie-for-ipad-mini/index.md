@@ -1,9 +1,9 @@
 ---
 title: "Arcadie for Apple iPad mini"
-meta_tile: ""
 description: ""
 date: 2014-02-18T09:00:00+01:00
-image_cover: "/img/blog/2014/zhan-zhang-6gS4AwmKKDg-unsplash.jpg"
+lastmod: 2014-02-18T09:00:00+01:00
+image_cover: "zhan-zhang-6gS4AwmKKDg-unsplash.jpg"
 categories: ["Packaging"]
 authors: ["Marcel Venema"] 
 tags: ["fun"]

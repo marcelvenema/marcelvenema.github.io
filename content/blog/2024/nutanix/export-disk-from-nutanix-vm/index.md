@@ -3,7 +3,7 @@ title: "Export disk from Nutanix AHV VM"
 description: ""
 date: 2024-03-22T06:00:00+01:00
 lastmod: 2024-03-22T06:00:00+01:00
-image_cover: "/img/blog/2024/caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg"
+image_cover: "caspar-camille-rubin-fPkvU7RDmCo-unsplash.jpg"
 categories: ["Nutanix"]
 authors: ["Marcel Venema"] 
 tags: ["AHV"]

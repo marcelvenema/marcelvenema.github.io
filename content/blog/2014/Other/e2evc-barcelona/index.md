@@ -1,9 +1,9 @@
 ---
 title: "E2Evc Barcelona 2014"
-meta_tile: ""
 description: ""
 date: 2014-11-04T09:00:00+01:00
-image_cover: "/img/blog/2014/elevate-snnhGYNqm44-unsplash.jpg"
+lastmod: 2014-11-04T09:00:00+01:00
+image_cover: "elevate-snnhGYNqm44-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: ["fun"]

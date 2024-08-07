@@ -2,7 +2,7 @@
 title: "Tesla Service Center check"
 description: ""
 date: 2023-11-10T09:00:00+01:00
-image_cover: "/img/blog/2023/tesla-check-10-11-2023.jpg"
+image_cover: "tesla-check-10-11-2023.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: []

@@ -3,7 +3,7 @@ title: "SSL/TLS error with Nutanix Prism webconsole"
 description: ""
 date: 2023-05-12T09:00:00+01:00 
 lastmod: 2023-05-12T09:00:00+01:00 
-image_cover: "/img/blog/2023/firmbee-com-eMemmpUojlw-unsplash.jpg"
+image_cover: "firmbee-com-eMemmpUojlw-unsplash.jpg"
 categories: ["Nutanix"]
 authors: ["Marcel Venema"] 
 tags: []

@@ -1,9 +1,9 @@
 ---
 title: "Goodbye Conoscenza, Hello MarcelVenema.com"
-meta_tile: ""
 description: ""
 date: 2014-05-02T09:00:00+01:00
-image_cover: "/img/blog/2014/sean-pollock-PhYq704ffdA-unsplash.jpg"
+lastmod: 2014-05-02T09:00:00+01:00
+image_cover: "sean-pollock-PhYq704ffdA-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: []

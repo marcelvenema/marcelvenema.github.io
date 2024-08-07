@@ -1,9 +1,9 @@
 ---
 title: "Raamstijlen"
-meta_tile: ""
 description: ""
 date: 2017-05-13T09:00:00+01:00
-image_cover: "/images/blog/raamstijlen.jpg"
+lastmod: 2017-05-13T09:00:00+01:00
+image_cover: "raamstijlen.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

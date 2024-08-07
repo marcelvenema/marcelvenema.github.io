@@ -2,7 +2,7 @@
 title: "Wensrit Miranda september 2023"
 description: ""
 date: 2023-10-07
-image_cover: "/img/blog/2023/wensrit-miranda-30-09-2023.jpg"
+image_cover: "wensrit-miranda-30-09-2023.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: []

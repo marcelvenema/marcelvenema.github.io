@@ -1,9 +1,9 @@
 ---
 title: "Bouten, moeren en bevestigingsmaterialen"
-meta_tile: ""
 description: ""
 date: 2014-10-25T09:00:00+01:00
-image_cover: "/img/blog/2014/bouten-moeren.jpg"
+lastmod: 2014-10-25T09:00:00+01:00
+image_cover: "bouten-moeren.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

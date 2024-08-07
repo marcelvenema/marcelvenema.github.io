@@ -1,19 +1,29 @@
 ---
 title: MarcelVenema.com
 baseURL: /
-languageCode: en
+languageCode: en-US
 defaultContentLanguage: en
+theme: marcelvenema
+# theme: mv-001
+
+# Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+timeZone: "Europe/Amsterdam"
+# post pagination
+paginate: 18 # see https://gohugo.io/extras/pagination/
+# post excerpt
+summaryLength: 20 # see https://gohugo.io/content-management/excerpts/
+
+
+
 canonifyURLs: false
 disableAliases: true
 disableHugoGeneratorInject: true
 enableEmoji: true
 enableGitInfo: false
 enableRobotsTXT: true
-paginate: 5
 rssLimit: 10
 preserveTaxonomyNames: true
 metaDataFormat: yaml
-summaryLength: 8
 googleAnalytics: "G-BPYZWSQKWP" # example : UA-123-45
 permalinks:
   pages: "/:slug/"
@@ -47,19 +57,20 @@ outputs:
     - HEADERS
   section:
     - HTML
-mediaTypes:
-  text/netlify:
-    suffixes:
-      - ""
-    delimiter: ""
+#mediaTypes:
+  #text/netlify:
+  #  suffixes:
+  #    - ""
+  #  delimiter: ""
 outputFormats:
   REDIRECTS:
-    mediaType: text/netlify
+    #mediaType: text/netlify
+    mediaType: text/plain
     baseName: _redirects
     isPlainText: true
     notAlternative: true
   HEADERS:
-    mediaType: text/netlify
+    mediaType: text/plain
     baseName: _headers
     isPlainText: true
     notAlternative: true
@@ -86,7 +97,7 @@ module:
   hugoVersion:
     extended: true
     min: 0.120.0
-    max: ""
+
   mounts:
     - source: assets
       target: assets

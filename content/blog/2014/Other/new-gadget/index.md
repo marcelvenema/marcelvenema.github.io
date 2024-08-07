@@ -1,9 +1,9 @@
 ---
 title: "New gadget!"
-meta_tile: ""
 description: ""
 date: 2014-01-09T09:00:00+01:00
-image_cover: "/img/blog/2014/michael-podger-jpgRztEuaV4-unsplash.jpg"
+lastmod: 2014-01-09T09:00:00+01:00
+image_cover: "michael-podger-jpgRztEuaV4-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: ["fun"]

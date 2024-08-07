@@ -1,9 +1,9 @@
 ---
 title: "Koffie en koek"
-meta_tile: ""
 description: ""
 date: 2018-09-25T09:00:00+01:00
-image_cover: "/img/blog/2018/koffie-koek.jpeg"
+lastmod: 2018-09-25T09:00:00+01:00
+image_cover: "koffie-koek.jpeg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

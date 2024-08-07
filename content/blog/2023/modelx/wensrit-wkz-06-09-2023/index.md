@@ -2,7 +2,7 @@
 title: "Wensrit WKZ september 2023"
 description: ""
 date: 2023-09-09T09:00:00+01:00
-image_cover: "/img/blog/2023/wensrit-wkz-06-09-2023.jpg"
+image_cover: "wensrit-wkz-06-09-2023.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: ["dag met een lach"]

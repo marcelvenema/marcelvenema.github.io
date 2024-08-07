@@ -1,9 +1,9 @@
 ---
 title: "Auto verzekeren"
-meta_tile: ""
 description: ""
 date: 2017-01-04T09:00:00+01:00
-image_cover: "/images/blog/auto-verzekeren.jpg"
+lastmod: 2017-01-04T09:00:00+01:00
+image_cover: "auto-verzekeren.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

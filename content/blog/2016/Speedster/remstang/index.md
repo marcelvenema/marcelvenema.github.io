@@ -1,9 +1,9 @@
 ---
 title: "Remstang"
-meta_tile: ""
 description: ""
 date: 2016-10-15T09:00:00+01:00
-image_cover: "/images/blog/koffie-koek.jpeg"
+lastmod: 2016-10-15T09:00:00+01:00
+image_cover: "remstang.jpg"
 categories: ["Speedster"]
 authors: ["Marcel Venema"] 
 tags: []

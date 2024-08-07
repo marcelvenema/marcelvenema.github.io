@@ -2,7 +2,7 @@
 title: "Lab: Using Nutanix CE"
 description: ""
 date: 2023-04-28T09:00:00+01:00
-image_cover: "/img/blog/2023/using-nutanix-ce.jpg"
+image_cover: "using-nutanix-ce.jpg"
 categories: ["Nutanix"]
 authors: ["Marcel Venema"] 
 tags: ["homelab"]

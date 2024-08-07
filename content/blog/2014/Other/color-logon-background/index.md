@@ -1,9 +1,9 @@
 ---
 title: "Color logon background"
-meta_tile: ""
 description: ""
 date: 2014-01-07T09:00:00+01:00
-image_cover: "/img/blog/2014/mika-baumeister-NSI6XtbabNw-unsplash.jpg"
+lastmod: 2014-01-07T09:00:00+01:00
+image_cover: "mika-baumeister-NSI6XtbabNw-unsplash.jpg"
 categories: ["Powershell"]
 authors: ["Marcel Venema"] 
 tags: []

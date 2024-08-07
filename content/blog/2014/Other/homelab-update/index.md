@@ -1,9 +1,9 @@
 ---
 title: "Homelab update"
-meta_tile: ""
 description: ""
 date: 2014-08-02T09:00:00+01:00
-image_cover: "/img/blog/2014/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
+lastmod: 2014-08-02T09:00:00+01:00
+image_cover: "alexandre-debieve-FO7JIlwjOtU-unsplash.jpg"
 categories: []
 authors: ["Marcel Venema"] 
 tags: ["homelab"]
