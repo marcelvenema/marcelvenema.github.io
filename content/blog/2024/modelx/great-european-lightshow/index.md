@@ -1,8 +1,6 @@
 ---
 title: "The Great European Lightshow"
 description: ""
-summary: "summary"
-slug: "great-european-lightshow"
 date: 2024-04-28T09:00:00+01:00
 lastmod: 2024-04-28T09:00:00+01:00
 image_cover: "great-european-lightshow.jpg"
