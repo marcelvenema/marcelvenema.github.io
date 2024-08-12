@@ -2,7 +2,8 @@
     <div class="overflow-hidden">
         {{- with .Resources.GetMatch .Params.image_cover }}
         {{- with .Resize "420x webp" }}
-        <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}">
+        <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+            alt="{{ .Title }}">
         {{- end }}
         {{- end }}
     </div>
@@ -20,7 +21,8 @@
                         class="text-[#101010] group-hover:text-[#d49c59] text-[1.75rem] font-heading font-bold leading-[1.25] mb-2">
                         {{ .Title | safeHTML }}</h3>
                 </a>
-                <p class="text-base lg:text-[1.0625rem] text-[#101010] leading-[1.25] group-hover:text-[#d49c59] mb-0">{{ .Summary }}...</p>
+                <p class="text-base lg:text-[1.0625rem] text-[#101010] leading-[1.25] group-hover:text-[#d49c59] mb-0">
+                    {{ .Summary }}...</p>
             </div>
         </div>
         <div class="border-t border-solid border-gray-300 pt-2">

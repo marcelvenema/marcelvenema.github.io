@@ -15,14 +15,14 @@
         </div>
         <div class="md:flex md:items-center md:space-x-[10px]">
             <div class="flex items-center mb-1 md:mb-0">
-                <h4 class="text-sm text-black leading-[1.25] mb-0 mr-2">{{ .LinkTitle | humanize }}</h4>
+                <h4 class="text-sm text-black leading-[1.25] mb-0 mr-2">{{ .LinkTitle }}</h4>
                 <span>
                     {{- partial "svg/icon-badge.svg" }}
                 </span>
             </div>
             <div class="flex items-center">
                 <span class="w-[4px] h-[4px] bg-black rounded-[2px] mr-2 hidden md:inline-block"></span>
-                <span class="text-sm text-black leading-[1.25]">{{ .Date | time.Format "Jan 06, 2006" }}</span>
+                <span class="text-sm text-black leading-[1.25]">{{ .Date | time.Format ":date_long" }}</span>
                 <span class="w-[4px] h-[4px] bg-black rounded-[2px] mx-2"></span>
                 <span class="text-sm text-black leading-[1.25]">{{ $reading_time }} min read</span>
             </div>

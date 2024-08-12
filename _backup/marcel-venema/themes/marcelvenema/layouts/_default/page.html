@@ -1,9 +1,0 @@
-{{- define "main" }}
-<div class="main overflow-hidden -translate-y-6">
-    {{- range $section := .Params.sections }}
-    {{- $include_dict := dict "section" $section "Site" $.Site }}
-    {{- $component := print "sections/" $section.template ".html" }}
-    {{ partial $component $include_dict }}
-    {{- end }}
-</div>
-{{- end }}

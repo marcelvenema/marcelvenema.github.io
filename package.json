@@ -4,7 +4,7 @@
     "description": "Marcel Venema",
     "main": "index.js",
     "scripts": {
-        "dev": "hugo server --disableFastRender",
+        "dev": "hugo server --disableFastRender --baseURL http://192.168.29.12:1313 --bind 0.0.0.0",
         "build": "hugo --gc --minify",
         "start": "hugo server --disableFastRender --ignoreCache --noHTTPCache --buildDrafts  --baseURL http://192.168.29.12:1313 --bind 0.0.0.0"
     },

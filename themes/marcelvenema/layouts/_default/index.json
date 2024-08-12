@@ -7,7 +7,7 @@
       "title": {{ $page.Title | jsonify }},
       "summary": {{ $page.Summary | jsonify }},
       "author": {{ index $page.Params.authors 0 | jsonify }},
-      "date": {{ $page.Date | dateFormat "Jan 2, 2006" | jsonify }},
+      "date": {{ $page.Date | jsonify }},
       "readingtime": {{ .ReadingTime | jsonify }},
       "categories": {{ $page.Params.categories | jsonify }},
       "url": {{ $page.Permalink | jsonify }}

@@ -1,5 +1,6 @@
 <div>
     {{ $reading_time := .ReadingTime }}
+    {{ $card_date := .Date }}
     {{- if .Params.authors }}
     {{- range (.GetTerms "authors") }}
     <div class="flex items-center space-x-[10px]">
@@ -21,7 +22,7 @@
                 </span>
             </div>
             <div class="text-xs text-black leading-[1.25] flex items-center">
-                <span class="text-xs">{{ .Date | time.Format "Januari 02, 2006" }}</span>
+                <span class="text-xs">{{ $card_date | time.Format ":date_long" }}</span>
                 <span class="w-[4px] h-[4px] bg-black rounded-[2px] mx-2"></span>
                 <span>{{ $reading_time }} min</span>
             </div>

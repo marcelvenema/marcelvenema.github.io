@@ -1,4 +1,0 @@
-### Hero section [ hero-section ]
-hero_section:
-  enable: true
-  image_bg: "images/header-bg.jpg"

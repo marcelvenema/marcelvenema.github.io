@@ -18,16 +18,18 @@ draft: false
 
 Finally, dreams come true, I am the proud owner of a Tesla Model X Plaid! After waiting more than two years, I got an SMS from Tesla the car would be delivered to the Tesla Delivery Center in Tilburg, The Netherlands.
 
-{{< img index="0" alt="image 0" >}}
+[](my-new-ride-01.jpg)
 
 The car was on my bucket list for several years and I am extremely happy that checkbox can be ticked. The Model X has only five colors: white, black, grey, blue, and red. I ordered white and wrapped it with the 3M Thundercloud satin color. It has six seats and I choose cream as the interior color. I like Tesla for the Full Self Driving (FSD) features and I cannot wait until this is available in Europe.
 
 It will be my daily drive and I want to attend several charity events to drive children at special events. The Tesla Model X Plaid is known for its exceptional performance and acceleration. It can go from 0 to 100 km/h in 2.6 seconds, providing an exhilarating driving experience. It is faster than most Ferraris, Lamborghinis, or Porsches. Also, the falcon-wing doors are an eyecatcher.
 
-{{< img index="1" alt="image 1" >}}
+{{< gallery class="gallery-image-style-2 mb-1" >}}
+{{< img index="1" alt="photo 1" >}}
+{{< img index="2" alt="photo 2" >}}
+{{< /gallery >}}
 
-{{< img index="2" alt="image 2" >}}
-
-{{< img index="3" alt="image 3" >}}
-
-{{< img index="4" alt="image 4" >}}
+{{< gallery class="gallery-image-style-3" >}}
+{{< img index="3" alt="photo 3" >}}
+{{< img index="4" alt="photo 4" >}}
+{{< /gallery >}}

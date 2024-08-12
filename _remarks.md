@@ -8,3 +8,4 @@
 - The gallery of https://marcel-venema.netlify.app/post/my-new-ride/ is not the same as https://www.marcelvenema.com/post/my-new-ride. I mentioned it in my order, see message.
 - Please remove humanize in post-card-meta.html {{ .LinkTitle }}
 - .Date | time.Format "January 02, 2006"
+

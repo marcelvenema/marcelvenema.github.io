@@ -2,7 +2,8 @@
     <div class="overflow-hidden">
         {{- with .Resources.GetMatch .Params.image_cover }}
         {{- with .Fill "300x225 webp" }}
-        <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}">
+        <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+            alt="{{ .Title }}">
         {{- end }}
         {{- end }}
     </div>

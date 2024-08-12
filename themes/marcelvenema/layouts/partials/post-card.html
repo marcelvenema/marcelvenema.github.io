@@ -4,7 +4,8 @@
             <div class="absolute top-0 left-0 w-full h-full overflow-hidden">
                 {{- with .Resources.GetMatch .Params.image_cover }}
                 {{- with .Fill "480x360 webp" }}
-                <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="{{ .Title }}">
+                <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}"
+                    height="{{ .Height }}" alt="{{ .Title }}">
                 {{- end }}
                 {{- end }}
             </div>

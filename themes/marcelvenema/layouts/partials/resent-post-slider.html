@@ -1,0 +1,54 @@
+{{ $post:= .Post }}
+<div x-data="{ 
+    init() {
+      new Swiper(this.$refs.resentslider, {
+        loop: true,
+        slidesPerView: 1,
+        initialSlide: 0,
+        spaceBetween: 20,
+        centeredSlides: true,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+        },
+        }).mount()
+      },
+  }" class="relative w-full md:hidden">
+    <div x-ref="resentslider" class="swiper resent-post__slider">
+        <div class="swiper-wrapper">
+            {{- range $post }}
+            <div class="swiper-slide">
+                <div class="border border-solid border-gray-300">
+                    <div class="overflow-hidden">
+                        {{- with .Resources.GetMatch .Params.image_cover }}
+                        {{- with .Fill "300x225 webp" }}
+                        <img class="w-full h-auto transition ease-in duration-1000 filter blur-lg loaded:blur-none" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}"
+                            height="{{ .Height }}" alt="{{ .Title }}">
+                        {{- end }}
+                        {{- end }}
+                    </div>
+                    <div class="p-6">
+                        <div class="min-h-[64px] relative group">
+                            <a class="before:absolute before:content-[''] before:top-0 before:left-0 before:w-full before:h-full"
+                                href="{{ .RelPermalink }}">
+                                <h3
+                                    class="text-[#101010] group-hover:text-[#d49c59] text-lg font-heading font-bold leading-[1.25] mb-2">
+                                    {{ .Title | safeHTML }}</h3>
+                            </a>
+                        </div>
+                        <div class="border-t border-solid border-gray-300 pt-2">
+                            <a class="text-black text-xs hover:text-[#d49c59]" href="{{ .RelPermalink }}">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{- end }}
+        </div>
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+</div>
