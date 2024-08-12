@@ -7,5 +7,5 @@ image_cover: "image-placeholder.png"
 categories: ["DevOps"]
 authors: ["Marcel Venema"]
 tags: [""]
-draft: true
+draft: false
 ---
