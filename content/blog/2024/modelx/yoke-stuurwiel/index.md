@@ -11,3 +11,4 @@ draft: false
 ---
 
 
+{{< image src="image-placeholder.png" alt="" >}}

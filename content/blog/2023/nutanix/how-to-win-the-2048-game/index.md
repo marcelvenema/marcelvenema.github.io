@@ -14,6 +14,8 @@ The 2048 game is a popular single-player puzzle game played on a 4x4 grid and in
 
 <!--more-->
 
+{{< image src="how-to-win-the-2048-game.jpg" alt="" >}}
+
 It can be reached via the drop-down list menu 'Nothing To Do?' of the user in the upper right corner of the console. The objective of the game is to slide and merge numbered tiles on the grid to reach the 2048 tile. Here is the strategy for how to win the game.
 If you do not have the 'Nothing To Do?' option in the menu, it may be disabled by the administrator. In Settings - Appearance - UI Settings there is a checkbox to disable the game.
 
@@ -31,7 +33,6 @@ The basic rules of the game are:
 
 **Game Over**: The game ends when there are no more available moves. If the entire grid is filled with tiles and no merges can occur, and there are no available moves in any direction, the game is over.
 
-&nbsp;  
 
 The 2048 game is known for its simplicity yet challenging nature, requiring strategic thinking, planning ahead, and making optimal moves to reach higher-numbered tiles and achieve high scores. Luck plays an important role in this game, as the appearance of new tiles is random.  However, by applying the strategies below and practicing, you can increase your chances of achieving higher scores and ultimately winning the game of 2048.
 

@@ -8,8 +8,6 @@ categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: [""]
 draft: false
-gallery_images:
-  - "great-european-lightshow.jpg"
 
 ---
 
@@ -17,7 +15,7 @@ gallery_images:
 
 <!--more-->
 
-{{< img index="0" alt="image 0" >}}
+{{< image src="great-european-lightshow.jpg" alt="" >}}
 
 
 

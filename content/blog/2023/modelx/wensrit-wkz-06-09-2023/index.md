@@ -13,10 +13,15 @@ draft: false
 
 <!--more-->
 
+{{< image src="wensrit-wkz-06-09-2023.jpg" alt="" >}}
+
 Op deze prachtige nazomerse middag hebben zich ongeveer twintig sportwagens verzameld voor de ingang van het Wilhelmina Kinderziekenhuis in Utrecht om vanaf daar een aantal rondritten te maken. Met de Tesla een aantal rondritten gemaakt en patientjes met hun familie een leuke dag kunnen bezorgen. 
 
 De middag stond ook in het teken om aandacht te vragen voor CF, Cystic Fibrosis. Op de website van [Muco and Friends](https://mucofriends.com) is meer informatie hierover te vinden.  
 
-{{< slider dir="wkz0609" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery-style-1 
+  src_1="wkz0609-02.jpg" alt_1="" 
+  src_2="wkz0609-04.jpg" alt_2=""
+>}}
 
 &nbsp;  

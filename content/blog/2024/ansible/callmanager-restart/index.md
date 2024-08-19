@@ -4,8 +4,6 @@ description: ""
 date: 2024-08-01T09:00:00+01:00
 lastmod: 2024-08-01T09:00:00+01:00
 image_cover: "pavan-trikutam-71CjSSB83Wo-unsplash.jpg"
-gallery_images:
- - "pavan-trikutam-71CjSSB83Wo-unsplash.jpg"
 categories: ["Ansible"]
 authors: ["Marcel Venema"] 
 tags: [""]
@@ -16,7 +14,23 @@ Shutting down or restart Cisco CallManager with VMWare vSphere management consol
 
 <!--more-->
 
-Aside from possible corruption, restarting the Cisco CallManer manually can be a time-consuming and error-prone task, especially in large environments with multiple CUCM clusters. This is where automation tools like Ansible come into play. In this blog, we'll explore how to use Ansible to automate the restart of Cisco CallManager services, ensuring a more efficient and error-free process. 
+{{< image src="pavan-trikutam-71CjSSB83Wo-unsplash.jpg" alt="" >}}
+
+Aside from possible corruption, restarting the Cisco CallManager manually can be a time-consuming and error-prone task, especially in large environments with multiple CUCM clusters. This is where automation tools like Ansible come into play. In this blog, we'll explore how to use Ansible to automate the restart of Cisco CallManager services, ensuring a more efficient and error-free process. 
+
+Cisco has some great samples of how to use Ansible playbooks to read or update CallManager configurations using the Cisco CallManager AXL SOAP API. See the https://developer.cisco.com/automation-ansible site and the https://github.com/CiscoDevNet/axl-ansible-examples Github repository. The only way to shutdown/restart Cisco CallManager is via the web GUI **Cisco Unified OS Administration** - **Settings** - **Version** and click the **Restart** or **Shutdown** button. You can also use the **utils system restart** command from the CallMananger CLI via SSH. Unfortunately, there is no AXL element to do so.
+
+The sample on Github provides a custom Ansible module to execute CUCM CLI commands and return the output. This custom Ansible module uses Python and some other prerequisites.
+
+
+```
+
+
+```
+
+
+
+read or update 
 
 
 

@@ -9,3 +9,6 @@ authors: ["Marcel Venema"]
 tags: ["3D"]
 draft: true
 ---
+
+
+{{< image src="image-placeholder.png" alt="" >}}

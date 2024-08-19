@@ -1,0 +1,38 @@
+{{- with .Site.Data.home.about_section }}
+{{- if .enable }}
+<section class="home-about-section">
+    <div class="container w-full max-w-screen-lg mx-auto pt-[60px] pb-[30px] px-5">
+        <div class="grid grid-cols-12 gap-y-10 lg:gap-x-10 items-center">
+            {{- range .authors }}
+            <div class="col-span-12 lg:col-span-6 flex">
+                <div class="w-1/2 flex-none pt-2">
+                    <div class="aspect-w-1 aspect-h-1">
+                        <div class="absolute w-full h-full top-0 left-0">
+                            {{ partial "image" (dict "Src" .image "Alt" "author image"
+                            "Loading"
+                            "eager"
+                            "Class"
+                            "w-full h-auto" "Command" "Fill"
+                            "Size" "260x260" ) }}
+                        </div>
+                    </div>
+                </div>
+                <div class="w-1/2 flex-none pl-4 md:pl-6">
+                    <div>
+                        {{- with .title }}
+                        <h3 class="text-[22px] text-black font-bold mb-6">{{ . | safeHTML }}</h3>
+                        <div class="w-[28px] h-[5px] bg-black mb-8"></div>
+                        {{- end }}
+                        {{- with .description }}
+                        <p class="text-base text-gray-400 mb-6">{{ . | safeHTML }}</p>
+                        {{- end }}
+                    </div>
+
+                </div>
+            </div>
+            {{- end }}
+        </div>
+    </div>
+</section>
+{{- end }}
+{{- end }}

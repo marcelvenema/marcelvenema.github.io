@@ -9,3 +9,6 @@ authors: ["Marcel Venema"]
 tags: [""]
 draft: true
 ---
+
+
+{{< image src="image-placeholder.png" alt="" >}}

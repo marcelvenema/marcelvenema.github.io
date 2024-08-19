@@ -12,6 +12,11 @@ draft: false
 
 A customer is working according to the DTAP principle. There is a development, test, acceptance and production environment. The customer wants to quickly identify the environment based on background colors. 
 
+<!--more-->
+
+{{< image src="mika-baumeister-NSI6XtbabNw-unsplash.jpg" alt="Color Logon Background" >}}
+
+
 Black for development, grey for test, light blue for acceptance and blue for production. For the desktop background the customer uses RES Workspace Manager. They also use the OEMBackground functionality for a custom logon background. 
 
 I wrote a small PowerShell script to recolor the background images to a specific color. The environment type, D, T, A, or P is stored in the registry, under the HKLM\Software\AF\Stage key. Depending of this value the color is selected.
@@ -65,14 +70,16 @@ PRD { $red = "15";$green="83";$blue="158";}
  {
   ReColor $file ($red -as [int]) ($green -as [int]) ($blue -as [int])
 
+# end script
 ```
+&nbsp;
 
 Happy coloring !! 
 
 &nbsp;  
-&nbsp;  
 
 ---
+&nbsp; 
 
 Photo by <a href="https://unsplash.com/@kommumikation?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mika Baumeister</a> on <a href="https://unsplash.com/photos/yellow-orange-and-blue-textile-NSI6XtbabNw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 

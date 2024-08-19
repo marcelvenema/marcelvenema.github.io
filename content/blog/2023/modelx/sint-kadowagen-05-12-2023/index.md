@@ -14,6 +14,8 @@ draft: false
 
 <!--more-->
 
+{{< image src="sint-kadowagen-05-12-2023.jpg" alt="" >}}
+
 Wat begon met even Sint en Piet naar een basischool brengen, liep al snel uit tot een hele organisatie met overleg, uitsnijden van stickers en het beplakken van de Tesla's! Tijdens het overleg werd geroepen dat het ook wel een leuk idee was om de auto's te bestickeren. Nu heb ik toevallig een snijplotter, dus voor ik het wist zat ik de letters te ontwerpen, werd er folie aangeleverd, stickers geplot, uitgesneden en op de auto's geplakt.
 
 {{< gallery1 dir="sint-01" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}

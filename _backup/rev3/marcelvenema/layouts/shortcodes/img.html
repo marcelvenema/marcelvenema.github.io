@@ -1,0 +1,14 @@
+{{- $get_index := int (.Get "index") }}
+{{- $alt := .Get "alt" }}
+{{- range $index, $gallery := .Page.Params.gallery_images }}
+{{- if eq $index $get_index }}
+<div @click="open = true; currentImage = {{ $index }}; $nextTick(() => initSplide())" class="gallery-item">
+  {{- with $.Page.Resources.GetMatch $gallery }}
+  {{- with .Resize (printf "%dx%d webp" .Width .Height) }}
+  <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" {{
+    with $alt }}alt="{{ . }}" {{ end }}>
+  {{- end }}
+  {{- end }}
+</div>
+{{- end }}
+{{- end }}

@@ -1,0 +1,38 @@
+<div x-cloak x-show="showLink" class="fixed w-full h-screen top-0 left-0 z-40">
+    <div class="bg-black/40 w-full h-full">
+        <div class="flex justify-end pt-4 pr-4 mb-8">
+            <button @click="showLink = false;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30"
+                    style="fill: rgb(255, 255, 255); fill-rule: evenodd;">
+                    <path
+                        d="M10976.4,1024.73l-14.3,14.28,13.9,13.92-0.7.74-14-13.92-14.2,14.25-0.8-.74,14.3-14.25-14.6-14.61,0.7-.74,14.6,14.61,14.3-14.28Z"
+                        transform="translate(-10946.15 -1023.83)"></path>
+                </svg>
+            </button>
+        </div>
+        <div @click.outside="showLink = false"
+            class="w-[98%] relative md:w-[452px] h-[212px] mx-auto bg-white flex justify-center items-center">
+            <div>
+                <h3 class="text-lg text-black font-bold text-center">Share Post</h3>
+                <div>
+                    <div>
+                        <input type="text" value="{{ .Permalink }}"
+                            class="w-[332px] bg-white text-sm text-black font-body leading-none border border-gray-400 px-3 pt-[8px] pb-[10px] placeholder:text-gray-400 placeholder:font-normal placeholder:text-sm placeholder:leading-none focus:outline-none focus:border-gray-500 focus:ring-transparent focus:ring-0"
+                            readonly />
+                    </div>
+                    <div class="pt-4 flex justify-end space-x-4">
+                        <button @click="showLink = false"
+                            class="bg-white text-black font-bold px-5 py-2 focus:outline-none border border-solid border-black">
+                            Cancel
+                        </button>
+                        <button
+                            @click="navigator.clipboard.writeText('{{ .Permalink }}').then(() => { showMessage = true; setTimeout(() => showMessage = false, 2000); })"
+                            class="bg-black text-white font-bold px-4 py-2 focus:outline-none">
+                            Copy Link
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

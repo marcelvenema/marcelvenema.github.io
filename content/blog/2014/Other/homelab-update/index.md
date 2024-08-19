@@ -12,6 +12,10 @@ draft: false
 
 I wanted to replace my old ESXi homelab server. Not only it is aging, it has an antique Intel quadcore Q6600 processor, but I also get more frequently the famous purple screens.
 
+<!--more-->
+
+{{< image src="alexandre-debieve-FO7JIlwjOtU-unsplash.jpg" alt="Homelab update" >}}
+
 Possible cause of these screens are probably the Realtek network adapters as these adapters are not officially supported. Besides this ESXi server I have also a Hyper-V and a XenServer homelab server, more about these in another blogpost.
  
 **Processor**
@@ -31,11 +35,11 @@ In the past I had (and have) issues with the Realtek network cards on ESXi . Fro
  
 **Power**
 All components are powered by a 380 Watt Antec Earthwatts Green power supply. I choose this PSU because it has an efficiency of over 80%. Also, this PSU was preferred choice of the Dutch tweakers.net tech website.
-
-&nbsp;  
+ 
 &nbsp;  
 
 ---
+&nbsp; 
 
 Photo by <a href="https://unsplash.com/@alexkixa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Alexandre Debiève</a> on <a href="https://unsplash.com/photos/macro-photography-of-black-circuit-board-FO7JIlwjOtU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 

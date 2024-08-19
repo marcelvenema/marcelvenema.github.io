@@ -1,0 +1,23 @@
+<div class="col-span-12 md:col-span-4 border border-solid border-gray-300 mb-[30px]">
+    <div class="overflow-hidden">
+        {{- with .Resources.GetMatch .Params.image_cover }}
+        {{- with .Fill "300x225 webp" }}
+        <img class="w-full h-auto" loading="lazy" src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+            alt="{{ .Title }}">
+        {{- end }}
+        {{- end }}
+    </div>
+    <div class="p-6">
+        <div class="min-h-[64px] relative group">
+            <a class="before:absolute before:content-[''] before:top-0 before:left-0 before:w-full before:h-full"
+                href="{{ .RelPermalink }}">
+                <h3
+                    class="text-[#101010] group-hover:text-[#d49c59] text-lg font-heading font-bold leading-[1.25] mb-2">
+                    {{ .Title | safeHTML }}</h3>
+            </a>
+        </div>
+        <div class="border-t border-solid border-gray-300 pt-2">
+            <a class="text-black text-xs hover:text-[#d49c59]" href="{{ .RelPermalink }}">Read More</a>
+        </div>
+    </div>
+</div>

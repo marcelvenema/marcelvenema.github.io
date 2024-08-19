@@ -13,6 +13,9 @@ draft: false
 
 <!--more-->
 
+{{< image src="droomautodag-11-11-2023.jpg" alt="" >}}
+
+
 De hele dag kunnen kinderen en hun begeleiders meerijden op het circuit in een sportwagen, off-road meerijden met een trike of quad, of zelf rijden op een afgesloten parkour met een lesauto of lesvrachtwagen van rijschool Veronica. Er was een springkussen, kinderen kunnen worden geschminkt en eten, drinken en andere versnaperingen worden geregeld.
 
 {{< image1 src="dad02-03.jpg" position="center" command="fill" option="q100" class="img-fluid" webp="true" >}}

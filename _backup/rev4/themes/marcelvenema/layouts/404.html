@@ -1,0 +1,30 @@
+{{- define "main" }}
+<main id="site-main" class="single-page -translate-y-6">
+    {{- with .Site.Data.pages.hero_section }}
+    {{- if .enable }}
+    <section class="hero-section">
+        <div class="container w-full max-w-screen-lg mx-auto px-5 lg:px-0">
+            <div class="aspect-w-3 aspect-h-4 md:aspect-w-[492] md:aspect-h-[175]">
+                <!-- check file existance -->
+                {{- if fileExists (add `assets/` (string .image_bg)) }}
+                {{- $image_bg:= resources.Get .image_bg }}
+                <div
+                    class="hero-section__bg w-full h-full bg-cover bg-no-repeat bg-center bg-[url('{{ $image_bg.RelPermalink }}')]">
+                    {{ else }}
+                    <div class="w-full h-full bg-cover bg-no-repeat bg-center bg-[url('/images/header-bg.jpg')]">
+                        {{- end }}
+                    </div>
+                </div>
+            </div>
+    </section>
+    {{- end }}
+    {{- end }}
+
+    <div class="container w-full max-w-screen-lg mx-auto px-5 pt-6">
+        <div class="text-center py-[120px]">
+            <h2 class="text-black text-4xl font-bold mb-6">PAGE NOT FOUND</h2>
+            <h3 class="text-black text-3xl font-bold"><a href="/">Go to Homepage</a></h3>
+        </div>
+    </div>
+</main>
+{{- end }}

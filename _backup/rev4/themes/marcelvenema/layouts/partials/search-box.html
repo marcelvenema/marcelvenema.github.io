@@ -1,0 +1,19 @@
+<div x-data="{ isOpen: false }" @click.outside="isOpen = false" class="relative flex justify-end items-center">
+    <button @click="isOpen = !isOpen"
+        class="w-8 h-8 flex justify-center items-center text-white md:text-black focus:outline-none focus:ring-0">
+        {{- partial "svg/icon-search.svg" (dict "class" "fill-current text-current") }}
+    </button>
+    <div class="absolute top-0 right-0 transition-all duration-200 ease-[ease] overflow-hidden"
+        :class="{ 'w-[200px]': isOpen, 'w-0': !isOpen }">
+        <form id="search-form" action="/search/" method="GET">
+            <div class="flex items-center border-b border-solid border-gray-400">
+                <button type="submit" class="border-none text-white md:text-black">
+                    {{- partial "svg/icon-search.svg" (dict "class" "fill-current text-current") }}
+                </button>
+                <input
+                    class="bg-black md:bg-white w-full text-sm text-white md:text-black font-body leading-none border-none px-3 pt-[7px] pb-[9px] placeholder:text-gray-500 md:placeholder:text-gray-400 placeholder:font-normal placeholder:text-sm placeholder:leading-none focus:placeholder:text-transparent focus:outline-none focus:border-none focus:ring-transparent focus:ring-0"
+                    type="text" id="search-input" name="query" placeholder="Search">
+            </div>
+        </form>
+    </div>
+</div>

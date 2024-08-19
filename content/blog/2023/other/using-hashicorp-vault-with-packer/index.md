@@ -8,3 +8,5 @@ authors: ["Marcel Venema"]
 tags: ["Packer","Vault"]
 draft: true
 ---
+
+{{< image src="" alt="" >}}

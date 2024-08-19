@@ -11,6 +11,7 @@ draft: true
 ---
 
 
+{{< image src="image-placeholder.png" alt="" >}}
 
 
 Developer mode

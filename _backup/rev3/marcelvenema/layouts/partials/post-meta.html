@@ -1,0 +1,33 @@
+<div>
+    {{ $reading_time := .ReadingTime }}
+    {{- if .Params.authors }}
+    {{- range (.GetTerms "authors") }}
+    <div class="flex items-center space-x-3">
+        <div class="flex-none w-[32px]">
+            <div class="w-[32px] h-[32px] rounded-full overflow-hidden">
+                {{- with .Resources.GetMatch .Params.cover }}
+                {{- with .Resize "32x q100 webp" }}
+                <img src="{{ .RelPermalink }}" class="w-full h-auto object-cover object-center rounded-[16px]"
+                    alt="{{ .Title }}" width="{{ .Width }}" height="{{ .Height }}">
+                {{- end }}
+                {{- end }}
+            </div>
+        </div>
+        <div class="md:flex md:items-center md:space-x-[10px]">
+            <div class="flex items-center mb-1 md:mb-0">
+                <h4 class="text-sm text-black leading-[1.25] mb-0 mr-2">{{ .LinkTitle }}</h4>
+                <span>
+                    {{- partial "svg/icon-badge.svg" }}
+                </span>
+            </div>
+            <div class="flex items-center">
+                <span class="w-[4px] h-[4px] bg-black rounded-[2px] mr-2 hidden md:inline-block"></span>
+                <span class="text-sm text-black leading-[1.25]">{{ .Date | time.Format ":date_long" }}</span>
+                <span class="w-[4px] h-[4px] bg-black rounded-[2px] mx-2"></span>
+                <span class="text-sm text-black leading-[1.25]">{{ $reading_time }} min read</span>
+            </div>
+        </div>
+    </div>
+    {{- end }}
+    {{- end }}
+</div>

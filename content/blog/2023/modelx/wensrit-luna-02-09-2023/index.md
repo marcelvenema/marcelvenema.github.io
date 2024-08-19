@@ -14,8 +14,14 @@ draft: false
 
 <!--more-->
 
-{{< gallery1 dir="wensrit-luna" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< image src="wensrit-luna-02-09-2023.jpg" alt="" >}}
 
 Na de heerlijke koffie met gebak, dankjewel familie!, hebben we met haar en familie een rondrit in de omgeving gedaan. Uiteraard hebben we de Tesla lichtshow en het schetenkussen uitgeprobeerd. De dag afgesloten met een gezamelijke maaltijd bij het pannekoekenrestaurant. Lieve Luna, we hopen dat je een geweldige dag hebt gehad!
+
+{{< gallery-style-1 
+  src_1="luna-aalten-01.jpg" alt_1="" 
+  src_2="luna-aalten-02.jpg" alt_2=""
+  src_3="luna-aalten-03.jpg" alt_3=""
+>}}
 
 &nbsp;  

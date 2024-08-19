@@ -13,9 +13,11 @@ draft: false
 
 <!--more-->
 
+{{< image src="wensrit-miranda-30-09-2023.jpg" alt="" >}}
+
 Miranda heeft CF, Cystic Fibrosis. Dit is een erfelijke ziekte met een beperkte levensverwachting. Groot was haar verbazing toen we plotseling voor haar huis stonden en ze mee mocht een ritje maken! Een leuke rit met de Tesla gemaakt en na afloop met zijn allen iets gegeten. Uiteraard ook de lichtshow laten zien en spelletjes gespeeld met het Tesla stuur.
 
- ![image](wensrit-miranda-01.jpg)
+{{< image src="wensrit-miranda-01.jpg" alt="" >}}
 
 Lieve Miranda, hopelijk heb je een hele mooie dag gehad!
 

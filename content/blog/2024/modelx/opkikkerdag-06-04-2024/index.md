@@ -13,10 +13,7 @@ draft: false
 **(Dutch content)** Voor mij weer de eerste opkikkerdag van 2024. Of eerlijker gezegd, de tweede, omdat we twee weken ervoor op zondag met alle rijders bij elkaar zijn gekomen om de nieuwe route te verkennen, bij te praten en herinneringen op te halen.<br/>
 Tijdens deze rijdesnbriefing werd ons nogmaals op het hart gedrukt om vooral de kinderen en gezinnen te laten genieten, je aan de regels te houden en de maximumsnelheid niet te overschrijden.<br/>
 
-
-
-
-
+{{< image src="opkikkerdag-06-04-2024.jpg" alt="" >}}
 
 De voorbereidingen voor de opkikkerdag begonnen al een paar dagen eerder, door de auto te voorzien van stickers met als opdruk 'OPKIKKER WENS TAXI'. Niet alleen zorgt dat voor een leuke beleving voor de kinderen, ook mede-weggebruikers zien dan direct dat het om een opkikker auto gaat.<br/> Met de snijplotter de teksten en afbeeldingen uitgesneden en gelukkig was mijn vrouw zo vriendelijk te helpen om deze vrijdag op de auto te plakken.<br/>
 

@@ -11,4 +11,4 @@ draft: false
 ---
 
 
-
+{{< image src="robotics-engineer-working-on-maintenance-of-roboti-2023-11-27-05-23-51-utc.jpg" alt="" >}}

@@ -11,3 +11,4 @@ draft: false
 ---
 
 
+{{< image src="wkz_20240528.jpg" alt="" >}}

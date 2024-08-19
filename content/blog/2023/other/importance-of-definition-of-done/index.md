@@ -13,11 +13,9 @@ As a DevOps engineer, having a clear definition of done is important for several
 
 <!--more-->
 
-&nbsp;  
+{{< image src="braden-collum-9HI8UJMSdZA-unsplash.jpg" alt="" >}}
 
 Why you should have a Definition of Done (DoD):
-
-&nbsp;  
 
 **Clarity**: A definition of done provides clarity on what is expected to be completed for a given task or project. This clarity ensures that all team members are on the same page regarding what constitutes a completed task.
 
@@ -29,13 +27,9 @@ Why you should have a Definition of Done (DoD):
 
 **Customer satisfaction**: Finally, having a clear definition of done can help ensure that customer expectations are met. By ensuring that tasks are completed to a high standard and meet the criteria set out in the DoD, it's easier to ensure that customers are satisfied with the end result.
 
-&nbsp;  
-
 Having a definition of done is crucial for ensuring that tasks are completed to a high standard, team members are held accountable for their work, and customer expectations are met. It helps to create a common understanding between all members of the team and ensures that everyone is working towards the same goal.
 
 Here are some items that should be included in a DoD:
-
-&nbsp;  
 
 **Code quality**: Code should be clean, readable, maintainable, and follow agreed-upon coding standards.
 
@@ -57,14 +51,9 @@ Here are some items that should be included in a DoD:
 
 **User acceptance testing**: User acceptance testing should be performed to ensure that the user story or task meets the needs of the end-users.
 
-&nbsp;  
-
 Next time, when a manager asks if the user story is ready or done, do not automatically say 'yes', but remember the above 10 items :-)
 
 &nbsp;  
 &nbsp;  
 
 Photo by <a href="https://unsplash.com/@bradencollum?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Braden Collum</a> on <a href="https://unsplash.com/photos/man-on-running-field-9HI8UJMSdZA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-&nbsp;
-  

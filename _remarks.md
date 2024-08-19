@@ -11,3 +11,8 @@
 
 I am not completely satisfied with the gallery and image options. Your revision looks like a 'quick fix' to add two css classes. It would be very nice if a gallery/masonry shortcode would be available which I can use like {{< gallery1 dir="img" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}} or something similar. 
 It would be very nice if we do not need a gallery_images list in frontmatter, but can use directly a directory/folder for the gallery and img src for an image. Do you understand what I mean? 
+
+
+code blocks:
+- add line numbers
+- add copy button
