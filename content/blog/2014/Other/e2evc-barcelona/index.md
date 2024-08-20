@@ -12,6 +12,10 @@ draft: false
 
 Last weekend I attended the E2EVC conference, formerly known as ‘PubForum’. Alex Juschin, the organizer, changed the name a few years ago from ‘PubForum’ to E2EVC, I wonder why : - ) And yes, indeed, the beer will be sponsored most of the time…
 
+<!--more-->
+
+{{< image src="elevate-snnhGYNqm44-unsplash.jpg" alt="e2evc" >}}
+
 This time the conference was in Barcelona, from 24 October until 26 October. I arrived a day early to enjoy the Barcelona scenery.
 
 E2Evc has about 120 attendees, about 30 presenters a bus sightseeing tour and a networking night out. Also there are at least 4 Citrix Technology Professionals, 5 Microsoft Valued Professionals and a few VMWare vExperts present. 
@@ -21,9 +25,9 @@ I can personally recommend to attend any of the E2EVC conferences. Not only abou
 Next conference will be June 12-14 2015 in Berlin.
 
 &nbsp;  
-&nbsp;  
 
 ---
+&nbsp;  
 
 Photo by <a href="https://unsplash.com/@elevatebeer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Elevate</a> on <a href="https://unsplash.com/photos/people-having-a-toast-snnhGYNqm44?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 

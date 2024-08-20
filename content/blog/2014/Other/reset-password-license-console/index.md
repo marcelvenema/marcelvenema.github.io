@@ -12,6 +12,8 @@ draft: false
 
 When installing Citrix License Server on a non-Active Directory domain server, the default username and password for access is ‘admin’. On an Active Directory server, the user who has installed the license server first is added to the Citrix Administrators to access the console.
 
+{{< image src="rc-xyz-nft-gallery-q7h8LVeUgFU-unsplash.jpg" alt="reset password license console" >}}
+
 Especially when working on projects, engineers or consultants tend to forget to add an extra Windows AD security group to the License Management Console after installation. After a few weeks the consultant or engineer is working for another client, and the user account will be deleted, letting the License Management Console inaccessible.
 
 Steps to reset the password:
@@ -36,9 +38,9 @@ Steps to reset the password:
 See also Citrix knowledgebase article [CTX200163](http://support.citrix.com/article/CTX200163)
 
 &nbsp;  
-&nbsp;  
-
+ 
 ---
+&nbsp; 
 
 Photo by <a href="https://unsplash.com/@moneyphotos?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">rc.xyz NFT gallery</a> on <a href="https://unsplash.com/photos/a-bunch-of-keys-sitting-on-top-of-a-table-q7h8LVeUgFU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 

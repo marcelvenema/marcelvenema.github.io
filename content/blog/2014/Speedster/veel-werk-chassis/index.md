@@ -12,6 +12,9 @@ draft: false
 
 Vandaag weer verder gegaan met het chassis. Het is toch meer werk dan gedacht. De onderkant is helemaal in de RX10 gezet. Nu gestart met de bovenkant van het chassis. 
 
+<!--more-->
+
+{{< image src="IMG_4589s.jpg" alt="" >}}
 
 Het chassis is ingekort en op een aantal plekken gelast, maar het lijkt erop dat ze rond de gelaste stukken het niet hebben afgedekt waardoor overal bolletjes metaal aan het chassis vast zitten. Ook zijn er twee gaten in het chassis naar voren gekomen die zijn dicht gekit. Er omheen maar even het metaal blank gemaakt en een keer een lasapparaat lenen om deze gaten dicht te lassen.Ik probeer de metaalbolletjes ook zo goed en kwaad als het kan te verwijderen, veel schuren en slijpen.
 

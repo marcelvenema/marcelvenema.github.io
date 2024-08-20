@@ -12,6 +12,10 @@ draft: false
 
 Wat is nu eigenlijk het verschil tussen een chassis met pendelassen en een chassis met Independent Rear Supspension (IRS) ? Ik ben ook geen expert, maar met een beetje hier en daar informeren, doorspitten van fora en het zoeken op internet zal ik het proberen om het in deze blog uit te leggen.
 
+<!--more-->
+
+{{< image src="pendelasvstussenas.jpg" alt="" >}}
+
 Wanneer we kijken naar de historie zien we dat in het begin de kever uitgerust is met pendelassen. Bij de kever automaat, Kubel, Karmann Ghia en de latere 1302/1303 kever is men de IRS achterwielophanging gaan gebruiken.
 
 
