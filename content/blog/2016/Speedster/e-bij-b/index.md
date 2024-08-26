@@ -12,7 +12,12 @@ draft: false
 
 Dat is ook wel even een ding…
 
-Ik ben van na de lichting dat je nog automatisch E bij je B rijbewijs kreeg. Na 1984 moet je een apart examen doen om ook met een aanhanger te mogen rijden. Aangezien de Speedster nog een aantal malen tussen Lelystad, Enschede en Deventer moet pendelen lijkt het me wel makkelijk om E achter B te halen. Tot nu toe kon ik altijd op schoonvader Ton rekenen voor het vervoer van de Speedster maar het is toch handig wanneer ik het zelf heb. Toch dankjewel Ton voor alle vervoer!
+Ik ben van na de lichting dat je nog automatisch E bij je B rijbewijs kreeg. Na 1984 moet je een apart examen doen om ook met een aanhanger te mogen rijden. Aangezien de Speedster nog een aantal malen tussen Lelystad, Enschede en Deventer moet pendelen lijkt het me wel makkelijk om E achter B te halen. 
+
+<!--more-->
+{{< image src="e-bij-b.jpg" alt="" >}}
+
+Tot nu toe kon ik altijd op schoonvader Ton rekenen voor het vervoer van de Speedster maar het is toch handig wanneer ik het zelf heb. Toch dankjewel Ton voor alle vervoer!
 
 Via het internet een dagcursus geboekt waarbij je aan het einde van de dag examen moet doen. Examen was vanuit Lelystad alleen mogelijk in Harderwijk of Emmeloord. Die laatste ken ik een beetje dus Emmeloord is het ook geworden. Vooral de bijzondere verrichtingen waren best pittig.
 

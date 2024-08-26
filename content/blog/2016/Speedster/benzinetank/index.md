@@ -12,6 +12,9 @@ draft: false
 
 De 356 Speedster maakt gebruik van de benzinetank van een Volkswagen Kever. Deze dient wel te worden aangepast voor gebruik met de Speedster. 
 
+<!--more-->
+{{< image src="benzinetank.jpg" alt="" >}}
+
 Bij een Kever zit de vulopening aan de zijkant van de passagierskant van de auto, bij de Speedster zit deze onder de kofferklep. De hals van de vulopening dient te worden ingekort. Omdat ik de Speedster van nul af aan opbouw en geen donor auto heb, toch maar een nieuwe reeds aangepaste tank gekocht bij AirCooled.
 
 Het monteren van de vlotter vergde even tijd, de vlotter was 'Made in China' en alles paste natuurlijk net niet. Na een half uurtje prutsen was dit ook voor elkaar.
@@ -20,6 +23,11 @@ Bij Paruzzi de tankaansluiting gekocht. Standaard heeft deze een doorvoer van 6 
 
 Tankaansluiting zonder zeef op de tank geplaatst en nog speling. Koperen ringen geprobeerd maar deze had mijn broer net niet liggen in de goede maat. Uiteindelijk maar de zeef 'gemodificeerd' en toen paste alles perfect.
 
-{{< gallery1 dir="img" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery-style-2 
+  src_1="20161029_094257818_iOS.jpg" alt_1="" 
+  src_2="20161029_094332041_iOS.jpg" alt_2="" 
+  src_3="20161029_100004136_iOS.jpg" alt_3="" 
+  src_4="20161029_100022433_iOS.jpg" alt_4=""
+>}}
 
 &nbsp;

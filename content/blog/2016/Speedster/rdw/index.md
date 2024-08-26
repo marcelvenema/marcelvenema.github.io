@@ -12,6 +12,9 @@ draft: false
 
 Vandaag de dag van de RDW keuring. Doordat de regelgeving is aangepast heeft iedereen nog tot 1 januari 2017 om de auto af te bouwen. Wordt een Speedster na 1 januari ter keuring aangeboden, wordt deze beschouwd als een nieuwe auto. Behalve een nieuw kenteken wordt dan ook gekeurd naar de eisen van de huidige tijd als aanwezigheid van airbag, ABS, emmissie-eisen, etc.
 
+<!--more-->
+{{< image src=".jpg" alt="" >}}
+
 De Speedster is gebouwd op een ingekort Volkswagen Kever chassis. De wielbasis van een Porsche Speedster is 2100mm, die van een Volkswagen Kever is 2400mm. Om de wielbasis gelijk te krijgen is het chassis van de Kever ingekort. Voordat het chassis is ingekort zijn door het RDW zegels aan de voor- en achterkant van het chassis geplaatst zodat men zeker weet dat na het inkorten dezelfde delen zijn gebruikt en de auto niet is omgekat met onderdelen van een andere (gestolen) auto.
 
 De Speedster op de aanhanger gezet en met veel angst naar de keuringsstation gereden. Bij de aanblik van een auto zonder motor hadden ze direct kunnen afkeuren maar gelukkig begrepen ze de situatie. Alle onderdelen, op de motor na, worden gecontroleerd en dan moet ik op een later tijdstip nog een keer terugkomen voor controle van de motor.  De keurmeesters waren erg vriendelijk en begonnen aan de controle.

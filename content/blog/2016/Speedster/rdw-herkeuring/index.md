@@ -12,6 +12,9 @@ draft: false
 
 Vrijdag 16 december 2016 is de dag van de herkeuring van de Speedster bij een keuringsstation van de Rijksdienst voor het Wegverkeer. De vorige keer dat ik er was is de auto afgekeurd, ook niet zo gek wanneer je een auto ter keuring aanbied zonder motor. Lees daarover een paar artikelen terug in mijn blog.
 
+<!--more-->
+{{< image src=".jpg" alt="" >}}
+
 De keurmeesters waren zeer vriendelijk en professioneel. Na het schouwen van de motor, deze keer wel ingebouwd en werkend, het controleren van het motornummer en de controle van de afstelling van de koplampen was uiteindelijk alles in orde en wordt het kenteken aangepast naar een Volkswagen 356 Speedster, tweezits cabriolet  met een massa rijklaar gewicht van  742 kilogram. De motorinhoud is 1641 cc en 51.40 kW.
 
 Dat gecontroleerd wordt of de afstelling van de koplamen correct is vond ik een beetje vreemd. De Speedster moet hierna nog helemaal uit elkaar en verder worden afgebouwd maar toch moet de afstelling goed zijn. Onbegrijpelijk soms de regels, maar ik ben al wel erg blij dat het kenteken is aangepast en ik nu in alle rust de Speedster verder kan afbouwen.
