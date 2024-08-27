@@ -19,7 +19,7 @@ Het lastige is ook nog een keer dat de Speedster nu bij mijn broer in Enschede s
 
 Gelukkig is er wel voortgang, de ruit past steeds beter. Ik ben trouwens ook grootverbruiker van de Action geworden met kwasten en latex handschoenen...
 
-{{< gallery-style-2 
+{{< gallery-style-1 
   src_1="20170526_143243137_iOS.jpg" alt_1="" 
   src_2="20170526_093350071_iOS.jpg" alt_2="" 
   src_3="20170408_131535285_iOS.jpg" alt_3="" 

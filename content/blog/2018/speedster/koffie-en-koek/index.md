@@ -10,9 +10,10 @@ tags: []
 draft: false
 ---
 
-## Met veel, heel veel regen....
-
 Afgelopen zondag was het 'koffie en koek' evenement bij Richard van 356-Speedster.nl in Deventer. Helaas waren de weergoden erg ongunstig gezind, de regen kwam met bakken uit de lucht.... 
+
+<!--more-->
+{{< image src="koffie-koek.jpeg" alt="" >}}
 
 Gelukkig werden we hartelijk ontvangen en konden we ons opwarmen aan warme thee en koffie. Ondanks het weer was er toch een redelijke opkomst en onder het genot van een kop koffie met een koekje toch veel ervaringen met anderen kunnen uitwisselen.
 
@@ -22,6 +23,16 @@ Ik ben er wel steeds meer van overtuigd om de accu van achter naar voren in de b
 
 Respect voor Robert uit Oss welke de regen hebben getrotseerd en met zijn Speedster en naar Deventer is gereden, ondanks de stromende regen! 
 
-{{< gallery1 dir="img" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery-style-1 
+  src_1="01.jpeg" alt_1="" 
+  src_2="02.jpeg" alt_2="" 
+  src_3="03.jpeg" alt_3="" 
+>}}
+&nbsp;
+{{< gallery-style-1 
+  src_1="04.jpeg" alt_1="" 
+  src_2="05.jpeg" alt_2="" 
+  src_3="06.jpeg" alt_3=""
+>}}
 
 &nbsp;  

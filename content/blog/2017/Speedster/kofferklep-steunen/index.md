@@ -15,17 +15,10 @@ De gaten voor de kofferklep steunen waren, laten we het zeggen 'ruim' uitgezaagd
 <!--more-->
 {{< image src="kofferklep-steunen.jpg" alt="" >}}
 
-{{< gallery-style-2 
-  src_1="20170401_135121721_iOS.jpg" alt_1="" 
+{{< gallery-style-1 
+  src_1="20170520_101708452_iOS.jpg" alt_1="" 
   src_2="20170520_083225822_iOS.jpg" alt_2="" 
   src_3="20170520_083235785_iOS.jpg" alt_3="" 
   src_4="20170520_101659944_iOS.jpg" alt_4=""
 >}}
-&nbsp;
-
-{{< gallery-style-1 
-  src_1="20170520_101708452_iOS.jpg" alt_1="" 
-  src_2="20170520_124954758_iOS.jpg" alt_2="" 
->}}
-
 &nbsp;
