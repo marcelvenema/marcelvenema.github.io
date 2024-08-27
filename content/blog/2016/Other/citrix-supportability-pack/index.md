@@ -1,5 +1,5 @@
 ---
-title: "Citri supportability Pack"
+title: "Citrix Supportability Pack"
 description: ""
 date: 2016-04-18T09:00:00+01:00
 lastmod: 2016-04-18T09:00:00+01:00
@@ -24,48 +24,46 @@ I extract the zip file on every new installation of a Delivery Controller server
 At this moment the toolkit (1.1.5) has the following tools:
 
 
-CDF Control
-CDF Marker
-CD Monitor
-Citrix Diagnostic Toolkit
-CPatch Tool
-DSCheck Maintenance Assistant
-Export-XenDesktop5Config
-FarmTWIHelper
-HDX 3D Pro Health Check Tool
-HDX Monitor
-IMA Helper
-KeepMeLoggedIn
-License Check Utility
-License Server Data Collection tool
-MessageHistory
-Policy Reporter – RSOP Tool
-Port Check Utility
-PortICA Log Enabler
-Print Detective
-Printing Tool
-Profile Management Configuration Checking Tool
-PVS Datatools
-Quick Launch
-RDSWatcher
-Receiver Clean-Up Utility
-Receiver Diagnostics Tool
-Session State Monitor
-Stress Printers Tool
-UPD Finder
-UPS Print Driver Certification Tool
-Web Interface Tracing
-Window History32
-Window History64
-XD Site Checker
-XDDBDiag for XenDesktop
-XDPing
-XenApp Load Balancing Diagnostic Tool
-XenDesktop Controller Service Logging Enabler
-
+- CDF Control
+- CDF Marker
+- CD Monitor
+- Citrix Diagnostic Toolkit
+- CPatch Tool
+- DSCheck Maintenance Assistant
+- Export-XenDesktop5Config
+- FarmTWIHelper
+- HDX 3D Pro Health Check Tool
+- HDX Monitor
+- IMA Helper
+- KeepMeLoggedIn
+- License Check Utility
+- License Server Data Collection tool
+- MessageHistory
+- Policy Reporter – RSOP Tool
+- Port Check Utility
+- PortICA Log Enabler
+- Print Detective
+- Printing Tool
+- Profile Management Configuration Checking Tool
+- PVS Datatools
+- Quick Launch
+- RDSWatcher
+- Receiver Clean-Up Utility
+- Receiver Diagnostics Tool
+- Session State Monitor
+- Stress Printers Tool
+- UPD Finder
+- UPS Print Driver Certification Tool
+- Web Interface Tracing
+- Window History32
+- Window History64
+- XD Site Checker
+- XDDBDiag for XenDesktop
+- XDPing
+- XenApp Load Balancing Diagnostic Tool
+- XenDesktop Controller Service Logging Enabler
 
 You can download the Citrix Supportability Pack here: http://support.citrix.com/article/CTX203082
-
 
 &nbsp;
 

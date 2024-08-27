@@ -19,7 +19,7 @@ En ik toen maar denken, das handig, een merkteken voor vetnippels. Achteraf dus 
 
 Uiteindelijk zelf op het idee gekomen om maar een bout erin te draaien en de bovenkant af te slijpen. Niet te ver erin draaien, anders heb ik een probleem met de torsievering. Bovenkant afslijpen, likje verf erop en we kunnen het stuurhuis monteren....
 
-{{< gallery-style-2 
+{{< gallery-style-1 
   src_1="20160720_130710434_iOS-2.jpg" alt_1="" 
   src_2="IMG_0243.jpg" alt_2="" 
   src_3="IMG_2661.jpg" alt_3="" 

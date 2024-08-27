@@ -13,7 +13,7 @@ draft: false
 Dankzij het goede werk van motorenspecialist Jaap Bergman Kevers is het probleem gevonden, de nieuwe EMPI carburateurs zijn defect!
 
 <!--more-->
-{{< image src=".jpg" alt="" >}}
+{{< image src="1-dag-voor-rdw.jpg" alt="" >}}
 
 Hij heeft via de distributeur een nieuwe set laten komen en deze gemonteerd. Wat blijkt, deze zijn ook defect! Koortsachtig overleg met de distributeur. Vermoedelijk een productiefout, deze EMPI carburateurs kunnen met een kleine bijbetaling worden omgeruild voor Webers. Toch maar doen, de motor moet natuurlijk wel goed zijn. 
 

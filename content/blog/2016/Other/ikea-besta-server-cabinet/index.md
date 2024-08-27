@@ -1,5 +1,5 @@
 ---
-title: "Buildingan Ikea Besta server cabinet"
+title: "Building an Ikea Besta server cabinet"
 description: ""
 date: 2016-03-29T09:00:00+01:00
 lastmod: 2016-03-29T09:00:00+01:00
@@ -31,6 +31,8 @@ Material list:
 Several Nuts and bolts, M3x40mm
 ```
 
+&nbsp;
+
 The frame will be divided in four sections; the bottom section will house the four power adapters. On top of the power adapters I will reserve some room for the network cables and patch panel. The two top parts will house the four servers. Airflow will be very important. I expect the airflow will go from the back of the frame to the front. In the future I will mount a dust filter on the back with additional fans. At this moment I expect the cooling will be sufficient.
 
 The power adapters are all around 380watt and 80% efficiency. The EPS connectors for the servers on the top shelf are not long enough, this is solved with an EPS extension cable.
@@ -38,3 +40,5 @@ The power adapters are all around 380watt and 80% efficiency. The EPS connectors
 I also need to replace the standard Intel processor cooler by a right-angled cooler so the airflow will be correct. The total height is important, as it must fit on the shelf of the IKEA Besta case. The height of the coolers must not exceed 140mm. I ordered and paid four Artic Freezer i11 CPU coolers for next day delivery. The next day, no delivery, the product was out of stock with a new delivery date in 8 business days. Bummer… Luckily my local computer store around the corner had two Artic Cooling Freezer 7 on stock.
 
 A glass panel will be mounted in the future at the front of the frame to view the servers. The glass panel will be a few centimeters open to provide enough airflow. In the gallery I will post some pictures.
+
+&nbsp;

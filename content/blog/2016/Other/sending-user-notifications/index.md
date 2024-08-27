@@ -25,7 +25,7 @@ Second step is to create a Execute Command based on the just created zone. The E
 
 This is my PowerShell script:
 
-```powershell
+```
 
 [xml]$toast = @"
 (toast duration="long" )(visual)(binding template="ToastGeneric")(image id="1" placement="appLogoOverride" src="" /)(text id="1")(/text)(text id="2")(/text)(text id="3")(/text)(/binding)(/visual)
@@ -49,6 +49,8 @@ $notification.LoadXml($toast.OuterXml)
 $notify.Show($notification)
 
 ```
+
+&nbsp;
 
 Generally speaking, I use notifications for the following events:
 
