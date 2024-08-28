@@ -7,7 +7,7 @@ image_cover: "robotics-engineer-working-on-maintenance-of-roboti-2023-11-27-05-2
 categories: ["Ansible"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: false
+draft: true
 ---
 
 

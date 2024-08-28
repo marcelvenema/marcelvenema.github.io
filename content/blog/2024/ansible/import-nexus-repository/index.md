@@ -7,7 +7,7 @@ image_cover: "annie-spratt-GWCvnsMtiBg-unsplash.jpg"
 categories: ["Ansible"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: false
+draft: true
 ---
 
 

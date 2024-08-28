@@ -7,5 +7,5 @@ image_cover: "moved-over-to-hugo.jpg"
 categories: ["Hugo"]
 authors: ["Marcel Venema"] 
 tags: []
-draft: false
+draft: true
 ---

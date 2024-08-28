@@ -26,13 +26,10 @@ Het voordeel van de Tesla Model X is dat het een volwaardige SUV is met zes zitp
 <br/><br/>
 
 {{< gallery-style-1 
-src_1="dad_20240804_01.jpg" 
-src_2="dad_20240804_03.jpg"
-src_4="dad_20240804_04.jpg"
-alt_1="Droomautodag zomer 2024" 
-alt_2="Droomautodag zomer 2024" 
-alt_3="Droomautodag zomer 2024" 
-alt_4="Droomautodag zomer 2024" >}}
+  src_1="dad_20240804_01.jpg" alt_1="Droomautodag zomer 2024" 
+  src_2="dad_20240804_03.jpg" alt_2="Droomautodag zomer 2024" 
+  src_3="dad_20240804_04.jpg" alt_3="Droomautodag zomer 2024" 
+>}}
 
 <br/>
 Deze keer heb ik ook de drone meegenomen, waar ik een mooi beelden mee heb kunnen maken. 

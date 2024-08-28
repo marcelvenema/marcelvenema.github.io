@@ -7,7 +7,7 @@ image_cover: "walkator-dwigDz0t6TY-unsplash.jpg"
 categories: ["Ansible"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: false
+draft: true
 ---
 
 
