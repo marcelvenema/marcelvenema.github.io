@@ -7,7 +7,7 @@ image_cover: "jandira-sonnendeck-AcW1ZwD-qC0-unsplash.jpg"
 categories: ["Ansible"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: true
+draft: false
 ---
 
 {{< image src="jandira-sonnendeck-AcW1ZwD-qC0-unsplash.jpg" alt="" >}}
