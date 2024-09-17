@@ -7,7 +7,7 @@ image_cover: "jade_20.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: true
+draft: false
 ---
 
 **(Dutch content)** Jordy van stichting de inkleurporsche heeft mij benaderd of het geen leuk idee is om voor het komende event, de sparerib drive in Dordrecht, stickers voor de auto te maken voor Jade. Supergoed idee, gaan we regelen. Alleen even vergeten dat het meer dan 360 hartjes zijn en 180 naamstickers met nog 2 dagen tot het event...

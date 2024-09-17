@@ -7,7 +7,7 @@ image_cover: "jade_04.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: true
+draft: false
 ---
 
 **(Dutch content)** Een druk weekend, na de onthulling van de inkleurporsche op zaterdag, was het zondag tijd voor het sparerib drive event in Dordrecht, jaarlijks georganiseerd door Cas Kunst.
