@@ -3,7 +3,7 @@
 {{- $style := resources.Get "css/styles.css" }}
 {{- $swiper := resources.Get "css/partials/swiper-bundle.min.css" }}
 {{- $bundle := slice $swiper $style | resources.Concat "css/main.css" }}
-{{- $styles := $bundle | resources.PostCSS $options }}
+{{- $styles := $bundle | css.PostCSS $options }}
 {{- if hugo.IsProduction }}
   {{- $styles = $styles | minify | fingerprint | resources.PostProcess }}
 {{- else }}

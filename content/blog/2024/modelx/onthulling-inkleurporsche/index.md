@@ -10,7 +10,7 @@ tags: [""]
 draft: false
 ---
 
-Zaterdag 31 augustus was er de onthulling van de inkleurporsche. Dit is een Porsche gewrapped met stripfiguren welke kinderen zelf mogen inkleuren. Hoe gaaf is dat!
+**(Dutch content)** Zaterdag 31 augustus was er de onthulling van de inkleurporsche. Dit is een Porsche gewrapped met stripfiguren welke kinderen zelf mogen inkleuren. Hoe gaaf is dat!
 
 <!--more-->
 
@@ -48,4 +48,4 @@ De dag werd afgesloten met een heerlijke barbeque waarin onder een genot van een
 ---
 &nbsp;
 
-Foto's gemaakt door Jaap Bakker
+Foto's gemaakt door Jaap Bakker, [Richard Schretzmeijer](https://www.instagram.com/schretzmeij?igsh=ZzdoZTNsNTVnaW9n), [Robbert Spruit](https://www.instagram.com/robbertspruit?igsh=dHgyZmhvd2dqZWt6) en [Sander Kaldenhoven](https://www.instagram.com/sanderkaldenhoven?igsh=MTlxMHhqbWhkOHMzOQ==).
