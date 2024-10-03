@@ -19,12 +19,12 @@ Shutting down or restart Cisco CallManager with VMWare vSphere management consol
 Aside from possible corruption, restarting the Cisco CallManager manually can be a time-consuming and error-prone task, especially in large environments with multiple CUCM clusters. This is where automation tools like Ansible come into play. In this blog, we'll explore how to use Ansible to automate the restart of Cisco CallManager services, ensuring a more efficient and error-free process. 
 
 Cisco has some great samples of how to use Ansible playbooks to read or update CallManager configurations using the Cisco CallManager AXL SOAP API.
-See the https://developer.cisco.com/automation-ansible site and the Github repository https://github.com/CiscoDevNet/axl-ansible-examples. The only way to shutdown/restart Cisco CallManager is via the web GUI `Cisco Unified OS Administration - Settings - Version` and click the Restart or Shutdown button. You can also use the `utils system restart` command from the CallMananger CLI via SSH. Unfortunately, there is no AXL element to do so.
+See the https://developer.cisco.com/automation-ansible site and the Github repository https://github.com/CiscoDevNet/axl-ansible-examples. The only way to shutdown/restart Cisco CallManager is via the web GUI: `Cisco Unified OS Administration - Settings - Version` and click the Restart or Shutdown button. You can also use the `utils system restart` command from the CallMananger CLI via SSH. Unfortunately, there is no AXL element to do so.
 
 The sample on Github provides a custom Ansible module to execute CUCM CLI commands and return the output. This custom Ansible module uses Python and some other prerequisites.
 
 
-```
+```ansible
   - name: Restart Cisco CallManager...
       cisco_vos_cli:
         cli_address: "{{ cucm_address }}"
@@ -54,7 +54,7 @@ The sample on Github provides a custom Ansible module to execute CUCM CLI comman
 
 
 ```
-
+<br/>
 
 
 read or update 
