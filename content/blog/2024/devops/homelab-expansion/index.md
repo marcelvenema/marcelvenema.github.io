@@ -14,14 +14,27 @@ My Nutanix homelab server died... Of course this always happens at the worst pos
 
 <!--more-->
 
-I was working on an Ansible playbook to install Cisco CallManager on Nutanix AHV when suddenly my Nutanix Community Edition server stopped, along with my workstation, monitors, printer, ceiling lights and airconditioning... A fuse blow and the homelab server was totally dead. Luckily I do my homework and read a lot of forums, blog articles and other technical stuff to keep up with all the information an IT professional need to know. A while ago i was reading a review of the Minisforum MS-01 workstation on the [servethehome](https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/) website. The workstation caught my eye, because the workstation has a small form factor and not one, but two 10G NICs onboard. I already have a small 10G network and if my new homelab server can connect to this it would be a huge bonus.
+I was working on an Ansible playbook to install Cisco CallManager on Nutanix AHV when suddenly my Nutanix Community Edition server stopped, along with my workstation, monitors, printer, ceiling lights and airconditioning... A fuse blow and the homelab server was totally dead. I tried to repair it, no luck and quicly realized this was a sign to buy new hardware...
 
-The Minisforum MS-01 comes equipped with the Intel Core i9-13900H, featuring 14 cores (6 performance, 8 efficiency) and up to 20 threads, making it ideal for workloads that require substantial processing power. Running it with a server operating system causes losing the efficiency cores, but it adds hyperthreading. It is still more than my old homelab Intel i5-8400 DIY build. The workstation officially supports 64GB memory, but various blogs shows running a total memory configuration of 96GB RAM.
+Luckily I did my homework and did read a lot of forums, blog articles and other technical stuff to keep up with all the information an IT professional need to know. A while ago i was reading a review of the Minisforum MS-01 workstation on the [servethehome](https://www.servethehome.com/minisforum-ms-01-review-the-10gbe-with-pcie-slot-mini-pc-intel/) website. This workstation caught my eye, because the workstation has a small form factor and not one, but two 10G NICs onboard. I already have a small 10G network and if my new homelab server can connect to this it would be a huge bonus.
+
+The Minisforum MS-01 comes equipped with the Intel Core i9-13900H, featuring 14 cores (6 performance, 8 efficiency) and up to 20 threads, making it ideal for workloads that require substantial processing power. Running it with a server operating system causes losing the efficiency cores, but adds hyperthreading. It is still more than my old homelab Intel i5-8400 DIY build. The workstation officially supports 64GB memory, but various blogs shows running a total memory configuration of 96GB RAM.
+
+My configuration is Intel i9-13900H processor, 96GB RAM and two NVMe 2TB disks. There is plenty of connectivity with two 10Gbe SFP+ ports, two 2.5GBe RJ45 ports and two USB4 Thunderbolt ports. 
+
+{{< gallery-style-1
+  src_1="" alt_1=""
+  src_2="" alt_2=""
+>}}
 
 
+Next step is installing Nutanix Community Edition....
 
 
+I paid for the configuration myself, but I love to 'test' another workstation to see how the couple behaves in a cluster configuration... :-)  
 
 
-d i3 -hreding, but it enabling hyperthreading, but, as a server loses The processor is supported by DDR5 RAM, which provides the necessary bandwidth for handling demanding virtualization tasks. The device also includes PCIe 4.0 and PCIe 5.0 slots, offering excellent expandability for future upgrades.
+&nbsp;
 
+---
+&nbsp;

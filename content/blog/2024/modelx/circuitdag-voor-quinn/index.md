@@ -26,15 +26,16 @@ draft: false
 Een paar weken geleden leerde ik Quinn (11) en zijn familie kennen tijdens het speciale onthullingsevent van Stichting De Inkleur Porsche. Een familie met een bijzonder verhaal. Ondanks de ongeneselijke ziekten van mama Femke en zoons Quinn en Sydney, proberen zij namelijk zoveel mogelijk te genieten. Mijn ontmoeting met dit gezin heeft me echt geraakt, waardoor ik graag iets voor hen wilde betekenen. Ik nodigde mama Femke, papa Dennis en zus Kylie samen met broers Quinn, Sydney en Glenn uit voor een extra stoer dagje uit.
 
 {{< image src="Circuitdag_Quinn_9.jpg" alt="" >}}
-&nbsp;
+
 
 Quinn vertelde mij tijdens het onthullingsevent dat Tesla zijn favoriete automerk is. Kwam dit goed uit! Tijdens de rally kwam ik meer te weten over het verhaal van de familie en de bucket list die zij nog hadden. Een grote wens van hen was om nog een keer op een circuit te rijden met echte sportauto's. Dit gehoord hebbende, kon ik mijn netwerk niet met rust laten. Ik nam contact op met Jacco van Stichting DAG MET EEN LACH, de organisator van de jaarlijkse DAG MET EEN LACH Circuitdag in Meppen. De vraag "Mag deze familie hierbij aansluiten?" was snel gesteld.
 
-{{< gallery-style-2
+{{< gallery-style-1
   src_1="Circuitdag_Quinn_5.jpg" alt_1=""
   src_2="Circuitdag_Quinn_1.jpg" alt_2=""
 >}}
-&nbsp;
+
+
 
 De Tesla Model X Plaid werd dit keer speciaal veranderd van tot "Quinns Wenstaxi" en het eerste rondje stapte het gehele gezin in voor een ware race. Nou ja, race; Niet inhalen, achter de pace car blijven, maar wel met een redelijk tempo.
 
