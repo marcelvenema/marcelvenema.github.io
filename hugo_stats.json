@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "a",
+      "blockquote",
       "body",
       "br",
       "button",
@@ -20,6 +21,7 @@
       "iframe",
       "img",
       "input",
+      "kbd",
       "label",
       "li",
       "line",
@@ -487,6 +489,7 @@
     "ids": [
       "architect",
       "bottom",
+      "cluster-configuration",
       "collaboration-and-scalability",
       "community-and-ecosystem",
       "consultancy",
@@ -502,6 +505,7 @@
       "message",
       "middle",
       "name",
+      "nutanix-ce-installation",
       "reports",
       "reuseability-write-once-use-everywhere",
       "search-form",

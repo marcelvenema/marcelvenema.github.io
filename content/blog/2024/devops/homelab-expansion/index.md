@@ -3,16 +3,18 @@ title: "Homelab expansion"
 description: ""
 date: 2024-09-28T06:00:00+01:00
 lastmod: 2024-09-28T06:00:00+01:00
-image_cover: "image-placeholder.png"
+image_cover: "minisforum01.jpg"
 categories: ["DevOps"]
 authors: ["Marcel Venema"]
 tags: [""]
-draft: true
+draft: false
 ---
 
 My Nutanix homelab server died... Of course this always happens at the worst possible time. Luckily I found a literally fast replacement in the shape of the Minisforum MS-01 workstation...
 
 <!--more-->
+
+{{< image src="minisforum01.jpg" alt="" >}}
 
 I was working on an Ansible playbook to install Cisco CallManager on Nutanix AHV when suddenly my Nutanix Community Edition server stopped, along with my workstation, monitors, printer, ceiling lights and airconditioning... A fuse blow and the homelab server was totally dead. I tried to repair it, no luck and quicly realized this was a sign to buy new hardware...
 
@@ -20,18 +22,15 @@ Luckily I did my homework and did read a lot of forums, blog articles and other 
 
 The Minisforum MS-01 comes equipped with the Intel Core i9-13900H, featuring 14 cores (6 performance, 8 efficiency) and up to 20 threads, making it ideal for workloads that require substantial processing power. Running it with a server operating system causes losing the efficiency cores, but adds hyperthreading. It is still more than my old homelab Intel i5-8400 DIY build. The workstation officially supports 64GB memory, but various blogs shows running a total memory configuration of 96GB RAM.
 
-My configuration is Intel i9-13900H processor, 96GB RAM and two NVMe 2TB disks. There is plenty of connectivity with two 10Gbe SFP+ ports, two 2.5GBe RJ45 ports and two USB4 Thunderbolt ports. 
-
-{{< gallery-style-1
-  src_1="" alt_1=""
-  src_2="" alt_2=""
->}}
+The configuration is an Intel i9-13900H processor, 96GB RAM and two NVMe 2TB disks. There is plenty of connectivity with two 10Gbe SFP+ ports, two 2.5GBe RJ45 ports and two USB4 Thunderbolt ports. There is also space for a PCI expansion card or GPU. I have some concerns about the cooling capacity when the computer is fully stacked, but let's find out!   
+ 
+{{< image src="minisforum02.jpg" alt="" >}}
 
 
 Next step is installing Nutanix Community Edition....
 
 
-I paid for the configuration myself, but I love to 'test' another workstation to see how the couple behaves in a cluster configuration... :-)  
+I paid for the configuration myself, but I love to 'test' another workstation from the manufacturer to see how this behaves in a cluster configuration... :-)  
 
 
 &nbsp;
