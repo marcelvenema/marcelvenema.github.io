@@ -21,8 +21,22 @@ Drawbacks are no ESXi support anymore and no automatic cluster creation after in
 <br/>
 
 ## Nutanix CE installation
-Create a bootable USB from the Nutanix CE 2.1 ISO file, boot, and wait until the installer screen appears. Select the disk for the AHV hypervisor (H), the CVM disk (C) and the disk to store the data (D) 
- and  
+Create a bootable USB from the Nutanix CE 2.1 ISO file, boot, and wait until the installer screen appears. Select the disk for the AHV hypervisor (H), the CVM disk (C) and the disk to store the data (D).
+Fill in host IP address, CVM IP address, subnet and gateway IP address. Click on `Next Page`, accept the license terms and start the installation!
+
+
+{{< image src="ntnx-ce.jpg" alt="" >}} 
+<br/>
+
+When planning the installation of the Nutanix CE environment, it is wise to take into account you need multiple IP adresses:
+
+- Nutanix AHV host IP address
+- CVM virtual machine with Prism Element IP address
+- Nutanix Prism Central virtual machine IP address
+- Cluster virtual IP address
+- iSCSI Data Services IP address
+
+<br/>
 
 
 ## Cluster configuration
@@ -30,19 +44,9 @@ Create a bootable USB from the Nutanix CE 2.1 ISO file, boot, and wait until the
 After installation of Nutanix CE, reboot the server and login to the CVM with <kbd>nutanix</kbd> and password <kbd>nutanix/4u</kbd>. Do not forget to change this default password with the `passwd` command. Create the cluster with the command: `cluster -s <ip address of CVMs> --redundancy_factor=1 --dns_servers <ip adress of DNS servers> create`
 
 When the cluster is created, the PrismElement web management console should be accessible via `https://<CVM ip address>:9440`.<br/>
-Login to the management console with user <kbd>admin</kbd> and password <kbd>nutanix/4u</kbd>, change the password and login again. After login provide your Nutanix NEXT credentials to start using Nutanix CE.  account and crer 
+Login to the management console with user <kbd>admin</kbd> and password <kbd>nutanix/4u</kbd>, change the password and login again. After login provide your Nutanix NEXT credentials to start using Nutanix CE.  
 
 
-
-
-
-
->
-ymanually before you can use some manual 
-
-test latest version of 
-
-LCM the commercial version 
 
 
 
