@@ -10,14 +10,14 @@ tags: ["AHV"]
 draft: false
 ---
 
-New hardware for my Nutanix CE homelab means a new installation of Nutanix Community Edition! Nutanix released a new version about a month ago with lot's of new features and enhancements. 
+New hardware for my Nutanix CE homelab means a new installation of Nutanix Community Edition! Nutanix released a new version about a month ago with lots of new features and enhancements. 
 <!--more-->
 
 {{< image src="hannah-busing-Zyx1bK9mqmA-unsplash.jpg" alt="" >}}
 
 The biggest improvement is that Nutanix CE is now based on the latest AOS, 6.8.1, and will follow the normal lifecycle updates of AOS and AHV from the commercial versions. You don't have to wait ages for a specific Nutanix CE version anymore. :-)
-It is compatible with the commercial version of Prism Central, allowing users to try out all great other features and acces the PrismCentral API for automation.<br/>
-Drawbacks are no ESXi support anymore and no automatic cluster creation after installation, meaning you have to install it manually with the commandline after initial installation.
+It is compatible with the commercial version of Prism Central, allowing users to try out all great other features and access the PrismCentral API for automation.<br/>
+Drawbacks are no VMWare ESXi support anymore and no automatic cluster creation after installation, requiring manual installation of the cluster (and Prism Element) via the commandline.
 <br/>
 
 ## Nutanix CE installation
@@ -28,7 +28,7 @@ Fill in host IP address, CVM IP address, subnet and gateway IP address. Click on
 {{< image src="ntnx-ce.jpg" alt="" >}} 
 <br/>
 
-When planning the installation of the Nutanix CE environment, it is wise to take into account you need multiple IP adresses:
+When planning the installation of the Nutanix CE environment, it is wise to take into account you need multiple IP addresses:
 
 - Nutanix AHV host IP address
 - CVM virtual machine with Prism Element IP address

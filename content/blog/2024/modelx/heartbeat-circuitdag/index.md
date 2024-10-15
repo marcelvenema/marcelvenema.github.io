@@ -1,8 +1,8 @@
 ---
 title: "F1 Circuit Zandvoort verkennen met Heartbeat"
 description: ""
-date: 2024-10-15T09:00:00+01:00
-lastmod: 2024-10-15T09:00:00+01:00
+date: 2024-10-14T09:00:00+01:00
+lastmod: 2024-10-14T09:00:00+01:00
 image_cover: "heartbeat-01.jpg"
 categories: ["ModelX"]
 authors: ["Marcel Venema"] 
