@@ -27,7 +27,7 @@ Ondanks het slechte nieuws blijft ze zich met haar stichting inzetten voor ander
   src_4="jade_07.jpg" alt_4=""
 >}}
 <br/>
-Haar droom is met de stichting een uniek huisje aanschaffen waar kankerpatientjes met hun gezin dierbare herinneringen kunnen maken. Momenteel huurt de stichtig de huisjes, maar het zou geweldig zijn wanneer er een eigen huisje komt. Dit geeft de mogelijkheid om gezinnen wat langer te laten uitwaaien dan een weekend en het huisje kan ook worden aangepast aan de omstandigheden met aangepast speelgoed, -fietsen, etc.<br/>
+Haar droom is met de stichting een uniek huisje aanschaffen waar kankerpatiëntjes met hun gezin dierbare herinneringen kunnen maken. Momenteel huurt de stichting de huisjes, maar het zou geweldig zijn wanneer er een eigen huisje komt. Dit geeft de mogelijkheid om gezinnen wat langer te laten uitwaaien voor meer dan een weekend en het huisje kan ook worden aangepast aan de omstandigheden met aangepast speelgoed, -fietsen, etc.<br/>
 <br/>
 Het instagram account van Jade is [@mijnlevenmetkanker_](https://www.instagram.com/mijnlevenmetkanker_/)
 <br/>
@@ -39,7 +39,7 @@ Het instagram account van Jade is [@mijnlevenmetkanker_](https://www.instagram.c
   src_4="jade_14.jpg" alt_4=""
 >}}
 <br/>
-De fundraiser bestaat uit een uitgebreide lunch gevolgd door twee ritten van ongeveer 120 kilometer in de omgeving van Zuid-Holland en Zeeland, onderbroken met een tussenstop voor een hapje en een drankje. Weer terug op de startlocatie is er in aan het einde van de middag een uitgebreid sparerib buffet met alles er op en er aan. Aan het einde van het event stond de teller op 20.000 euro voor Stichting Jade! Doneren kan nog steeds, via [Steun Jade](https://www.stichtingjade.nl/Steun-ons/). 
+De fundraiser bestaat uit een uitgebreide lunch gevolgd door twee ritten van ongeveer 120 kilometer in de omgeving van Zuid-Holland en Zeeland, onderbroken met een tussenstop voor een hapje en een drankje. Weer terug op de startlocatie is er in aan het einde van de middag een uitgebreid sparerib buffet met alles erop en eraan. Aan het einde van het event stond de teller op 20.000 euro voor Stichting Jade! Doneren kan nog steeds, via [Steun Jade](https://www.stichtingjade.nl/Steun-ons/). 
 
 {{< image src="jade_13.jpg" alt="" >}}
 

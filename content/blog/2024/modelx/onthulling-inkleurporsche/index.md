@@ -16,7 +16,7 @@ draft: false
 
 {{< image src="inkleurporsche02.jpg" alt="" >}}
 
-Om 12 uur werden we verwacht op [De Eikenhorst in Wijchen](https://www.eikenhorstwijchen.nl/) voor een uitgebreide lunch waarna we voorafgaand aan de onthulling van de Porsche een rally van ongeveer 80 kilometer hebben gereden. Bij de rally met gezinnen wezen de kinderen de weg, en niet elke auto had dezelfde route :-) Onderweg hebben we een aantal tussenstops gemaakt, vor een heerlijk ijsje, het maken van een groepsfoto bij een kip en als laatste een stop op een parkeerplaats waar stichting knuffelshuffle aanwezig was en waarin alle kinderen een knuffel konden uitzoeken.
+Om 12 uur werden we verwacht op [De Eikenhorst in Wijchen](https://www.eikenhorstwijchen.nl/) voor een uitgebreide lunch waarna we voorafgaand aan de onthulling van de Porsche een rally van ongeveer 80 kilometer hebben gereden. Bij de rally met gezinnen wezen de kinderen de weg, en niet elke auto had dezelfde route :-) Onderweg hebben we een aantal tussenstops gemaakt, voor een heerlijk ijsje, het maken van een groepsfoto bij een kip en als laatste een stop op een parkeerplaats waar stichting knuffelshuffle aanwezig was en waarin alle kinderen een knuffel konden uitzoeken.
 
 {{< image src="inkleurporsche03.jpg" alt="" >}}
 
@@ -38,7 +38,7 @@ Na de rally volgde de onthulling, waar alle kinderen de auto konden uitpakken. T
 
 &nbsp;
 
-De dag werd afgesloten met een heerlijke barbeque waarin onder een genot van een hapje en drankje werd nagepraat over de dag.
+De dag werd afgesloten met een heerlijke barbeque waarin onder het genot van een hapje en drankje werd nagepraat over de dag.
 
 
 

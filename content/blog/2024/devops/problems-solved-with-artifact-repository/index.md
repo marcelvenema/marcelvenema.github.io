@@ -15,7 +15,7 @@ In the world of infrastructure-as-code development, managing dependencies, build
 <!--more-->
 {{< image src="stacked-containers-background-2023-11-27-05-10-05-utc.jpg" alt="" >}}
 
-On a project I had a discussion about the implementation of an artifact repository. Everybody was more or less convinced to use it, but instead of start with a design and implement it, the project lead wanted to have a list which problems an artifact repository will solve so the team can decide if a repository is usefull and fulfill the needs. I was a bit confused, because corporate architecture already dictates the usage of an artifact repository, including specific brands and versions.
+On a project I had a discussion about the implementation of an artifact repository. Everybody was more or less convinced to use it, but instead of start with a design and implement it, the project lead wanted to have a list which problems an artifact repository solves so the team can decide if a repository is useful and fulfill their needs. I was a bit confused, because corporate architecture already dictates the usage of an artifact repository, including specific brands and versions.
 
 Here is a list which problems are solved with an artifact repository:
 
