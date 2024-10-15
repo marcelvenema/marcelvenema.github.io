@@ -23,6 +23,6 @@ Deze rit wordt georganiseerd door stichting Muco & Friends en stichting Knuffels
 
 De ModelX voorzien van 'wenstaxi' en hierbij kinderen en verplegend personeel blij gemaakt met verschillende ritjes. Nooit geweten dat de verpleegkundigen zo hard konden gillen tijdens de acceleratie :-)    
 
-Na afloop van de rit werden knuffels uitgedeeld in het ziekenhuis bnij kinderen die vanwege hun ziekte niet mee konden met de autoritten.
+Na afloop van de rit werden knuffels uitgedeeld in het ziekenhuis bij kinderen die vanwege hun ziekte niet mee konden met de autoritten.
 
 {{< image src="wkz-03.jpg" alt="" >}}

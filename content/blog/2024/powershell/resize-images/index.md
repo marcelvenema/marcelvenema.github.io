@@ -7,7 +7,7 @@ image_cover: "ali-karimiboroujeni-kAVb4iXFhDA-unsplash.jpg"
 categories: ["Powershell"]
 authors: ["Marcel Venema"] 
 tags: [""]
-draft: true
+draft: false
 ---
 
 Imagine you have a task to resize 1500+ photo's and prepare them for web content usage. Use a Powershell script! 
@@ -121,13 +121,16 @@ Write-Host "Image resizing completed!"
 
 ```
 <br/>
-<br/>
-The script is available in my public Powershell repository on Github : https://github.com/marcelvenema/Powershell
 
 
+The script is available in my public Powershell repository on Github : [github.com/marcelvenema/Powershell](https://github.com/marcelvenema/Powershell)<br/>
+
+
+Take a look at the result of the events page of the charity organization: [events.deinkleurporsche.nl](https://events.deinkleurporsche.nl).<br/>
+
+Happy photo resizing!
 <br/>
-Take a look at the result of the events page of the charity organization: [events.deinkleurporsche.nl](https://events.deinkleurporsche.nl). Happy photo resizing!
-<br/>
+
 &nbsp;
 
 ---

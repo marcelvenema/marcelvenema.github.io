@@ -10,9 +10,10 @@ tags: [""]
 draft: false
 ---
 
-Zaterdag 22 juni was het jaarlijkse 'Ter Land, ter Zee' evenement van stichting Dag met een Lach. Ongeveer 70 kinderen met gezinnen zijn uitgenodigd om een leuke dag te hebben en hun zorgen even tre vergeten. 'S ochtends een mooie rondrit over land, 's middag een vaartocht over de Loosdrechtse plassen. 
+Zaterdag 22 juni was het jaarlijkse 'Ter Land, ter Zee' evenement van stichting Dag met een Lach. Ongeveer 70 kinderen met gezinnen zijn uitgenodigd om een leuke dag te hebben en hun zorgen even te vergeten. 'S ochtends een mooie rondrit over land, 's middag een vaartocht over de Loosdrechtse plassen. 
 
 <!--more-->
+
 {{< image src="ter_land_ter_zee_2024.jpg" alt="" >}}
 
 Als zakelijke sponsor vind ik het fijn om te kunnen bijdragen aan dit goede doel. Niet alleen met de Model X om rondritten met kinderen te verzorgen, maar ook als vrijwilliger om te helpen. Vrijdagavond waren we even op locatie om alle details door ter spreken, zaterdagochtend al vroeg in Loosdrecht om te helpen alles voor de catering klaar te zetten. Een gezin kwam met de trein en de Model X is natuurlijk een ideale taxi om vanaf station Hilversum naar Navilex in Loosrecht en vice versa te vervoeren.
@@ -28,6 +29,9 @@ De ochtend was er een mooie rondrit om de Loosdrechtse Plassen uitgezet en na de
   src_4="tltz-04.jpg" alt_4=""
 >}}
 
+&nbsp;  
+
+---
 &nbsp;
 
-Photos by Roy Westerveld, Mariëlle Verschoor
+Photos by Roy Westerveld, Mariëlle Verschoor.
