@@ -18,14 +18,23 @@ draft: false
 
 Wat begon met even Sint en Piet naar een basischool brengen, liep al snel uit tot een hele organisatie met overleg, uitsnijden van stickers en het beplakken van de Tesla's! Tijdens het overleg werd geroepen dat het ook wel een leuk idee was om de auto's te bestickeren. Nu heb ik toevallig een snijplotter, dus voor ik het wist zat ik de letters te ontwerpen, werd er folie aangeleverd, stickers geplot, uitgesneden en op de auto's geplakt.
 
-{{< gallery1 dir="sint-01" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
+{{< gallery-style-2
+  src_1="sint01.jpg" alt_1=""
+  src_2="sint02.jpg" alt_2=""
+  src_3="sint03.jpg" alt_3=""
+  src_4="sint07.jpg" alt_4=""
+>}}
 &nbsp; 
 
 Ik heb wel geleerd wat het verschil is tussen spiegelschrift en gewoon schrift ;-) Het was erg leuk en gezellig om het te doen en de kinderen vonden het fantastisch. Vooral de frunk gevuld met pepernoten viel goed in de smaak!
 
 &nbsp; 
 
-{{< gallery1 dir="sint-02" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery-style-2
+  src_1="sint05.jpg" alt_1=""
+  src_2="sint06.jpg" alt_2=""
+  src_3="sint04.jpg" alt_3=""
+  src_4="sint08.jpg" alt_4=""
+>}}
 
 &nbsp; 
