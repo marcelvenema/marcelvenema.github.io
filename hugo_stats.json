@@ -488,9 +488,8 @@
     "ids": [
       "architect",
       "bottom",
+      "business-impact-of-an-automation-authority",
       "cluster-configuration",
-      "collaboration-and-scalability",
-      "community-and-ecosystem",
       "consultancy",
       "deploy-agent-from-console",
       "desktop-sampler-files",
@@ -499,23 +498,23 @@
       "email",
       "epic-hyperspace-steps",
       "installation",
-      "maintainability-keeping-complexity-in-check",
+      "key-responsibilities-of-the-architecture-pillar",
       "masonry-grid",
       "message",
       "middle",
       "name",
       "nutanix-ce-installation",
       "reports",
-      "reuseability-write-once-use-everywhere",
       "search-form",
       "search-input",
       "search-results",
       "sessionmanager-steps",
       "site-main",
-      "standardization-and-compliance",
       "summary",
+      "the-solution-an-automation-authority",
       "top",
-      "training"
+      "training",
+      "what-an-automation-authority-looks-like-in-practice"
     ]
   }
 }

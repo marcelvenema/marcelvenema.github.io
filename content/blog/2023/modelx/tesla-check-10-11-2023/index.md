@@ -18,6 +18,9 @@ draft: false
 Ook alle medewerkers van het Tesla Service Center dragen de droomautodag een warm hart toe en hebben aangeboden om de Tesla nog even belangeloos te controleren voordat er weer rondjes op het circuit worden gemaakt. Alles was helemaal in orde zodat we met een gerust hart richting Meppen, Duitsland kunnen rijden. 
 Nog even kort gesproken over het [Plaid track package](https://shop.tesla.com/nl_be/product/model-s-plaid-track-package?sku=1938526-00-A), keramische remmen voor de Model S Plaid, welke ook passen op de Model X. Deze zijn beduidend beter dan de huidige set, maar met een prijs van bijna 20K, wil ik toch maar even machten om deze te laten monteren...  
 
-{{< gallery1 dir="tesla-check" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery-style-1
+  src_1="tesla10112023-01.jpg" alt_1=""
+  src_2="tesla10112023-02.jpg" alt_2=""
+>}}
 
 &nbsp;
