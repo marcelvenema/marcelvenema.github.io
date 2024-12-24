@@ -488,6 +488,7 @@
     "ids": [
       "architect",
       "bottom",
+      "breaking-down-the-command",
       "business-impact-of-an-automation-authority",
       "cluster-configuration",
       "consultancy",
@@ -497,8 +498,8 @@
       "disable-user-account-control-uac",
       "email",
       "epic-hyperspace-steps",
+      "example-use-case",
       "installation",
-      "key-responsibilities-of-the-architecture-pillar",
       "masonry-grid",
       "message",
       "middle",

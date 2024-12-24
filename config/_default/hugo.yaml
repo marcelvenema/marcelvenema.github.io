@@ -11,7 +11,7 @@ timeZone: "Europe/Amsterdam"
 date_format: "January 02, 2006"
 
 # post pagination
-paginate: 18 # see https://gohugo.io/extras/pagination/
+pagination.pagerSize: 18 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength: 20 # see https://gohugo.io/content-management/excerpts/
 

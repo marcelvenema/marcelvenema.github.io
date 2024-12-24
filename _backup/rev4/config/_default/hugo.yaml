@@ -9,7 +9,7 @@ disableHugoGeneratorInject: true
 enableGitInfo: false
 enableEmoji: true
 enableRobotsTXT: true
-paginate: 6
+pagination.pagerSize: 6
 summaryLength: 8
 preserveTaxonomyNames: true
 metaDataFormat: yaml
